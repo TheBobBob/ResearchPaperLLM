@@ -1,0 +1,939 @@
+#Title
+
+
+https://doi.org/10.1186/s40659 024 00538 6
+
+## RESEARCH ARTICLE Open Access
+
+# The effect of CGRP and SP and the cell signaling dialogue between sensory neurons and endothelial cells
+
+Alice Leroux[1], Micaela Roque[1], Elina Casas[1], Jacques Leng[2], Christelle Guibert[3,4], Beatrice L’Azou[1], Hugo Oliveira[1],
+Joëlle Amédée[1] and Bruno Paiva dos Santos[1,5*]
+
+**Abstract**
+Increasing evidences demonstrate the role of sensory innervation in bone metabolism, remodeling and repair,
+however neurovascular coupling in bone is rarely studied. Using microfluidic devices as an indirect co-culture
+model to mimic in vitro the physiological scenario of innervation, our group demonstrated that sensory neurons
+(SNs) were able to regulate the extracellular matrix remodeling by endothelial cells (ECs), in particular through
+sensory neuropeptides, i.e. calcitonin gene-related peptide (CGRP) and substance P (SP). Nonetheless, still little
+is known about the cell signaling pathways and mechanism of action in neurovascular coupling. Here, in order
+to characterize the communication between SNs and ECs at molecular level, we evaluated the effect of SNs and
+the neuropeptides CGRP and SP on ECs. We focused on different pathways known to play a role on endothelial
+functions: calcium signaling, p38 and Erk1/2; the control of signal propagation through Cx43; and endothelial
+functions through the production of nitric oxide (NO). The effect of SNs was evaluated on ECs Ca[2+] influx, the
+expression of Cx43, endothelial nitric oxide synthase (eNOS) and nitric oxide (NO) production, p38, ERK1/2 as
+well as their phosphorylated forms. In addition, the role of CGRP and SP were either analyzed using respective
+antagonists in the co-culture model, or by adding directly on the ECs monocultures. We show that capsaicinstimulated SNs induce increased Ca[2+] influx in ECs. SNs stimulate the increase of NO production in ECs, probably
+involving a decrease in the inhibitory eNOS T495 phosphorylation site. The neuropeptide CGRP, produced by
+SNs, seems to be one of the mediators of this effect in ECs since NO production is decreased in the presence of
+CGRP antagonist in the co-culture of ECs and SNs, and increased when ECs are stimulated with synthetic CGRP.
+Taken together, our results suggest that SNs play an important role in the control of the endothelial cell functions
+through CGRP production and NO signaling pathway.
+**Keywords Angiogenesis, Calcium signaling, CGRP, Substance P, Innervation, Nitric oxide**
+
+
+3INSERM, Centre de Recherche Cardio-Thoracique de Bordeaux, U1045,
+Pessac F-33604, France
+4Univ. Bordeaux, Centre de Recherche Cardio-Thoracique de Bordeaux,
+U1045, Bordeaux F-33000, France
+5Univ. Paris Cité, URP2496-BRIO Pathologies Imagerie et Biothérapies
+Orofaciales, Montrouge F-92120, France
+
+
+
+
+#Authors
+
+
+## RESEARCH ARTICLE Open Access
+
+# The effect of CGRP and SP and the cell signaling dialogue between sensory neurons and endothelial cells
+
+Alice Leroux[1], Micaela Roque[1], Elina Casas[1], Jacques Leng[2], Christelle Guibert[3,4], Beatrice L’Azou[1], Hugo Oliveira[1],
+Joëlle Amédée[1] and Bruno Paiva dos Santos[1,5*]
+
+**Abstract**
+Increasing evidences demonstrate the role of sensory innervation in bone metabolism, remodeling and repair,
+however neurovascular coupling in bone is rarely studied. Using microfluidic devices as an indirect co-culture
+model to mimic in vitro the physiological scenario of innervation, our group demonstrated that sensory neurons
+(SNs) were able to regulate the extracellular matrix remodeling by endothelial cells (ECs), in particular through
+sensory neuropeptides, i.e. calcitonin gene-related peptide (CGRP) and substance P (SP). Nonetheless, still little
+is known about the cell signaling pathways and mechanism of action in neurovascular coupling. Here, in order
+to characterize the communication between SNs and ECs at molecular level, we evaluated the effect of SNs and
+the neuropeptides CGRP and SP on ECs. We focused on different pathways known to play a role on endothelial
+functions: calcium signaling, p38 and Erk1/2; the control of signal propagation through Cx43; and endothelial
+functions through the production of nitric oxide (NO). The effect of SNs was evaluated on ECs Ca[2+] influx, the
+expression of Cx43, endothelial nitric oxide synthase (eNOS) and nitric oxide (NO) production, p38, ERK1/2 as
+well as their phosphorylated forms. In addition, the role of CGRP and SP were either analyzed using respective
+antagonists in the co-culture model, or by adding directly on the ECs monocultures. We show that capsaicinstimulated SNs induce increased Ca[2+] influx in ECs. SNs stimulate the increase of NO production in ECs, probably
+involving a decrease in the inhibitory eNOS T495 phosphorylation site. The neuropeptide CGRP, produced by
+SNs, seems to be one of the mediators of this effect in ECs since NO production is decreased in the presence of
+CGRP antagonist in the co-culture of ECs and SNs, and increased when ECs are stimulated with synthetic CGRP.
+Taken together, our results suggest that SNs play an important role in the control of the endothelial cell functions
+through CGRP production and NO signaling pathway.
+
+
+#Summary
+
+
+**Abstract**
+Increasing evidences demonstrate the role of sensory innervation in bone metabolism, remodeling and repair,
+however neurovascular coupling in bone is rarely studied. Using microfluidic devices as an indirect co-culture
+model to mimic in vitro the physiological scenario of innervation, our group demonstrated that sensory neurons
+(SNs) were able to regulate the extracellular matrix remodeling by endothelial cells (ECs), in particular through
+sensory neuropeptides, i.e. calcitonin gene-related peptide (CGRP) and substance P (SP). Nonetheless, still little
+is known about the cell signaling pathways and mechanism of action in neurovascular coupling. Here, in order
+to characterize the communication between SNs and ECs at molecular level, we evaluated the effect of SNs and
+the neuropeptides CGRP and SP on ECs. We focused on different pathways known to play a role on endothelial
+functions: calcium signaling, p38 and Erk1/2; the control of signal propagation through Cx43; and endothelial
+functions through the production of nitric oxide (NO). The effect of SNs was evaluated on ECs Ca[2+] influx, the
+expression of Cx43, endothelial nitric oxide synthase (eNOS) and nitric oxide (NO) production, p38, ERK1/2 as
+well as their phosphorylated forms. In addition, the role of CGRP and SP were either analyzed using respective
+antagonists in the co-culture model, or by adding directly on the ECs monocultures. We show that capsaicinstimulated SNs induce increased Ca[2+] influx in ECs. SNs stimulate the increase of NO production in ECs, probably
+involving a decrease in the inhibitory eNOS T495 phosphorylation site. The neuropeptide CGRP, produced by
+SNs, seems to be one of the mediators of this effect in ECs since NO production is decreased in the presence of
+CGRP antagonist in the co-culture of ECs and SNs, and increased when ECs are stimulated with synthetic CGRP.
+Taken together, our results suggest that SNs play an important role in the control of the endothelial cell functions
+through CGRP production and NO signaling pathway.
+
+
+**Introduction**
+Human bone is a fully vascularized and innervated tissue,
+with a coupling between blood vessels and nerve fibers
+
+[1]. Nerve fibers can be found throughout the bone tissue
+but are more abundant in the periosteum and in highly
+vascularized and metabolically active regions [2]. Vas­
+cularization and innervation are anatomically and func­
+tionally coupled in bone tissue, nerve fibers are present
+along the blood vessels and, at the same time, nerve fibers
+contain blood capillary networks. Following these obser­
+vations, we and others have shown that sensory nerves
+can coordinate some aspects of vascularization and vas­
+cular cells [3–6], sharing common mechanisms during
+their development as well as during the bone regenera­
+tion process [4] through a variety of neurogenic or nonneurogenic factors [6].
+
+Indeed, both vascular and nervous tissues share com­
+
+mon signaling molecules. Endothelial cells and nerve
+cells can both secrete angiogenic and neurogenic factors
+during vessel and nerve formation as well as to maintain
+their respective functions. In 2017, Yuan et al., reported
+that human microvascular endothelial cells promote the
+development of dorsal root ganglion neurons at least via
+BDNF pathway in a co-culture system and the activation
+of ERK pathway [7]. In turn, sensory nerves can secrete
+calcitonin gene-related peptide (CGRP) and substance P
+(SP), both classic sensory neuropeptides, that stimulate
+endothelial cell proliferation and in vivo angiogenesis [8],
+and control endothelial cell function. SP also can stimu­
+late nitric oxide (NO) production in endothelial cells and
+then protect the bone vasculature [9]. However, while
+multiple factors have been identified in the coupling
+between innervation and vascularization, there is still a
+variety of mechanisms of action and signaling pathways
+in the SNs and ECs interplay that remains yet to be elu­
+cidated [10].
+
+In our previous work, we have used microfluidic cham­
+
+bers to mimic the innervation process, where cell inter­
+actions were achieved through axons emitted by neurons
+toward the ECs. These devices also permitted to analyze
+the two cell populations at proteomic and gene levels and
+thereafter enabled the evaluation of the influence of sen­
+sory neurons (SNs) on the target cells [3, 11]. We have
+first demonstrated in vitro that rat primary SNs were able
+to enhance the expression of angiogenic markers in rat
+bone marrow-derived endothelial cells, and more spe­
+cifically to stimulate extracellular matrix remodeling [3]
+through MMPs activities.
+
+Here, we propose to explore the interplay and cell sig­
+
+naling mechanisms on the effect of sensory neurons on
+endothelial cells. Numerous mechanisms, known as neu­
+rovascular coupling, have been explored and were a point
+of focus in this study. Among them, endothelial Ca[2][+] sig­
+naling, constitutes an emerging pathway in the regulation
+
+
+of neurovascular coupling [12]. In this respect, intercellu­
+lar calcium (Ca[2][+]) waves, that represent the propagation
+of increases in intracellular Ca[2][+] through a cell network,
+appear to be a fundamental mechanism for coordinating
+multicellular responses [12]. The calcium propagation
+predominately involves cell to cell communication, with
+internal messengers moving _via gap junctions, includ­_
+ing the connexin family, e.g. connexin 43 (Cx43), or other
+messengers mediating paracrine signaling [13] with a
+special emphasis on the possible participation of NO and
+endothelial NO synthase (eNOS) in this process [14].
+
+A second focus has been drawn on the classical sen­
+
+sory neuropeptides released in close proximity to the
+vascularized tissue, and which can then directly modu­
+late functions of endothelial cells. Previously, we showed
+that SNs, indirectly co-cultured with ECs, secreted CGRP
+and SP that could regulate ECs functions [3]. Similar to
+CGRP, it has long been described that SP induces endo­
+thelium-dependent vasodilation through the activation
+of nitric oxide synthase and thus release of nitric oxide
+
+[15–17]. It is thought that angiogenesis in bone is in part
+the result of SP release and endothelial progenitor cells
+migration from the bone marrow into the injured periph­
+eral tissue [18, 19]. In addition, it has been shown in dif­
+ferent vascular systems that SP-induced vasodilation
+is mediated by cyclic-GMP signaling through different
+pathways involving endothelial NO or direct endothelialindependent pathways [20].
+
+In such context, the aim of this study is to further
+
+explore the cell-cell communication between endothe­
+lial cells and sensory neurons using microfluidic devices
+by evaluating the mechanism of action and the signaling
+pathways involved in their crosstalk. We investigated the
+effect of SNs on ECs’ Ca[2][+] signaling, Cx43 expression and
+the impact on the NO endothelial-dependent pathways.
+We focused on the classical neuropeptides CGRP and SP,
+using their specific antagonists, as mechanism of action
+of SNs on ECs, evaluating also their respective role on
+this neurovascular coupling and cell signaling.
+
+
+
+**Conclusion**
+We showed that capsaicin-stimulated SNs could induce
+Ca[2][+] influx in ECs and we analyzed the effect of the
+two classical sensory peptides CGRP and SP on the
+protein levels and phosphorylation of potential actors
+impacted by the calcium influx in ECs. SNs increased
+NO production in ECs, probably involving a decrease
+in the inhibitory eNOS T495 phosphorylation site. The
+
+
+-----
+
+
+
+#Background and Significance
+
+
+**Introduction**
+Human bone is a fully vascularized and innervated tissue,
+with a coupling between blood vessels and nerve fibers
+
+[1]. Nerve fibers can be found throughout the bone tissue
+but are more abundant in the periosteum and in highly
+vascularized and metabolically active regions [2]. Vas­
+cularization and innervation are anatomically and func­
+tionally coupled in bone tissue, nerve fibers are present
+along the blood vessels and, at the same time, nerve fibers
+contain blood capillary networks. Following these obser­
+vations, we and others have shown that sensory nerves
+can coordinate some aspects of vascularization and vas­
+cular cells [3–6], sharing common mechanisms during
+their development as well as during the bone regenera­
+tion process [4] through a variety of neurogenic or nonneurogenic factors [6].
+
+Indeed, both vascular and nervous tissues share com­
+
+mon signaling molecules. Endothelial cells and nerve
+cells can both secrete angiogenic and neurogenic factors
+during vessel and nerve formation as well as to maintain
+their respective functions. In 2017, Yuan et al., reported
+that human microvascular endothelial cells promote the
+development of dorsal root ganglion neurons at least via
+BDNF pathway in a co-culture system and the activation
+of ERK pathway [7]. In turn, sensory nerves can secrete
+calcitonin gene-related peptide (CGRP) and substance P
+(SP), both classic sensory neuropeptides, that stimulate
+endothelial cell proliferation and in vivo angiogenesis [8],
+and control endothelial cell function. SP also can stimu­
+late nitric oxide (NO) production in endothelial cells and
+then protect the bone vasculature [9]. However, while
+multiple factors have been identified in the coupling
+between innervation and vascularization, there is still a
+variety of mechanisms of action and signaling pathways
+in the SNs and ECs interplay that remains yet to be elu­
+cidated [10].
+
+In our previous work, we have used microfluidic cham­
+
+bers to mimic the innervation process, where cell inter­
+actions were achieved through axons emitted by neurons
+toward the ECs. These devices also permitted to analyze
+the two cell populations at proteomic and gene levels and
+thereafter enabled the evaluation of the influence of sen­
+sory neurons (SNs) on the target cells [3, 11]. We have
+first demonstrated in vitro that rat primary SNs were able
+to enhance the expression of angiogenic markers in rat
+bone marrow-derived endothelial cells, and more spe­
+cifically to stimulate extracellular matrix remodeling [3]
+through MMPs activities.
+
+Here, we propose to explore the interplay and cell sig­
+
+naling mechanisms on the effect of sensory neurons on
+endothelial cells. Numerous mechanisms, known as neu­
+rovascular coupling, have been explored and were a point
+of focus in this study. Among them, endothelial Ca[2][+] sig­
+naling, constitutes an emerging pathway in the regulation
+
+
+of neurovascular coupling [12]. In this respect, intercellu­
+lar calcium (Ca[2][+]) waves, that represent the propagation
+of increases in intracellular Ca[2][+] through a cell network,
+appear to be a fundamental mechanism for coordinating
+multicellular responses [12]. The calcium propagation
+predominately involves cell to cell communication, with
+internal messengers moving _via gap junctions, includ­_
+ing the connexin family, e.g. connexin 43 (Cx43), or other
+messengers mediating paracrine signaling [13] with a
+special emphasis on the possible participation of NO and
+endothelial NO synthase (eNOS) in this process [14].
+
+A second focus has been drawn on the classical sen­
+
+sory neuropeptides released in close proximity to the
+vascularized tissue, and which can then directly modu­
+late functions of endothelial cells. Previously, we showed
+that SNs, indirectly co-cultured with ECs, secreted CGRP
+and SP that could regulate ECs functions [3]. Similar to
+CGRP, it has long been described that SP induces endo­
+thelium-dependent vasodilation through the activation
+of nitric oxide synthase and thus release of nitric oxide
+
+[15–17]. It is thought that angiogenesis in bone is in part
+the result of SP release and endothelial progenitor cells
+migration from the bone marrow into the injured periph­
+eral tissue [18, 19]. In addition, it has been shown in dif­
+ferent vascular systems that SP-induced vasodilation
+is mediated by cyclic-GMP signaling through different
+pathways involving endothelial NO or direct endothelialindependent pathways [20].
+
+In such context, the aim of this study is to further
+
+explore the cell-cell communication between endothe­
+lial cells and sensory neurons using microfluidic devices
+by evaluating the mechanism of action and the signaling
+pathways involved in their crosstalk. We investigated the
+effect of SNs on ECs’ Ca[2][+] signaling, Cx43 expression and
+the impact on the NO endothelial-dependent pathways.
+We focused on the classical neuropeptides CGRP and SP,
+using their specific antagonists, as mechanism of action
+of SNs on ECs, evaluating also their respective role on
+this neurovascular coupling and cell signaling.
+
+
+
+
+
+
+#Methods
+
+
+
+
+
+
+
+
+#Results
+
+
+**Abstract**
+Increasing evidences demonstrate the role of sensory innervation in bone metabolism, remodeling and repair,
+however neurovascular coupling in bone is rarely studied. Using microfluidic devices as an indirect co-culture
+model to mimic in vitro the physiological scenario of innervation, our group demonstrated that sensory neurons
+(SNs) were able to regulate the extracellular matrix remodeling by endothelial cells (ECs), in particular through
+sensory neuropeptides, i.e. calcitonin gene-related peptide (CGRP) and substance P (SP). Nonetheless, still little
+is known about the cell signaling pathways and mechanism of action in neurovascular coupling. Here, in order
+to characterize the communication between SNs and ECs at molecular level, we evaluated the effect of SNs and
+the neuropeptides CGRP and SP on ECs. We focused on different pathways known to play a role on endothelial
+functions: calcium signaling, p38 and Erk1/2; the control of signal propagation through Cx43; and endothelial
+functions through the production of nitric oxide (NO). The effect of SNs was evaluated on ECs Ca[2+] influx, the
+expression of Cx43, endothelial nitric oxide synthase (eNOS) and nitric oxide (NO) production, p38, ERK1/2 as
+well as their phosphorylated forms. In addition, the role of CGRP and SP were either analyzed using respective
+antagonists in the co-culture model, or by adding directly on the ECs monocultures. We show that capsaicinstimulated SNs induce increased Ca[2+] influx in ECs. SNs stimulate the increase of NO production in ECs, probably
+involving a decrease in the inhibitory eNOS T495 phosphorylation site. The neuropeptide CGRP, produced by
+SNs, seems to be one of the mediators of this effect in ECs since NO production is decreased in the presence of
+CGRP antagonist in the co-culture of ECs and SNs, and increased when ECs are stimulated with synthetic CGRP.
+Taken together, our results suggest that SNs play an important role in the control of the endothelial cell functions
+through CGRP production and NO signaling pathway.
+
+
+#Discussion
+
+
+**Discussion**
+Neurovascular coupling is a set of mechanisms regulat­
+ing the exchanges between nerves and blood vessels, and
+more precisely at the cellular level, between endothelial
+cells and neural cells. Some of these mechanisms have
+been described [37, 38], but most of them remain unclear,
+which confirm the need for further study of the interplay
+between these cell types that can support the regulation
+of angiogenesis by nerve fibers. In more details, through
+
+
+significant upregulation of p-Erk1/2 in the presence of
+AntSP relative to the vehicle (Fig. 5f).
+
+In order to explore a possible role of SP on Erk1/2
+
+expression and phosphorylation, we cultured ECs in well
+plates in the presence of 100 nM CGRP and 1 µM SP and
+analyzed by western blot (Fig. 5g, Supplementary Fig. 5).
+No significant differences were observed in Erk1/2
+expression (Fig. 5h) and in the Erk1/2 phosphorylation
+ratio (Fig. 5i) in relation to the vehicle.
+
+
+-----
+
+this coupling, local neuronal activity plays an impor­
+tant role on angiogenesis and physiology of neighboring
+microvessels. In this context and based on our previous
+data obtained in vitro on the effect of sensory neurons on
+endothelial cells [3], our aim here was to discriminate the
+cell signaling involved in the neurovascular coupling and
+to focus on the role of the two neurotransmitters CGRP
+and SP produced by sensory neurons on the cell commu­
+nication with endothelial cells.
+
+Among the responses of endothelial cells to different
+
+chemical (e.g., neurotransmitters) and physical stimuli
+(e.g., shear stress pulsatile stretch), the increase in intra­
+cellular Ca[2][+] concentration can further trigger diverse
+signaling pathways, known to regulate the expression of
+angiogenic markers and EC functions [39].
+
+In this work, we showed that the stimulation of SNs
+
+with capsaicin results an increase on intracellular cal­
+cium level in ECs (Fig. 1c-d). The effect of stimulation
+of SNs by capsaicin was observed on a group of endo­
+thelial cells whose resting [Ca[2 ][+] i] had been measured.
+This observation suggests that the stimulation of SNs
+by capsaicin and the subsequent release of vesicles [40],
+including CGRP and SP, can be responsible for the cal­
+cium influx observed in ECs. The role of CGRP and SP
+has been previously identified in our work as mediators
+stimulating the gene expression of angiogenic markers
+of endothelial cell functions [3]. Our results also suggest
+that [Ca[2 ][+] i] is increased in ECs in response to SNs stimu­
+lation with capsaicin and that ECs communicate quickly
+to present a harmonized response.
+
+In particular, calcium signaling is known to occur _via_
+
+gap junctions and connexin (Cx) hemichannels [30]. Gap
+junctions are constituted by Cx that contain multiple
+phosphorylation sites and the phosphorylation state is
+well known to regulate the opening or closing of chan­
+nels [41]. Among the Cx, Cx43 is one of the most widely
+expressed connexin in tissues and cell lines, especially
+in the vascularized bone tissue [41]. Phosphorylation of
+Cx43 is known to be involved in the regulation of hemi­
+channels and gap junctional communication through
+trafficking, assembly/disassembly, degradation as well as
+gap junction channel gating [42]. More precisely, it has
+been described that Cx43 phosphorylation decreases
+intercellular communication [42–45], however, Ca[2][+]
+transfer is rarely affected. Indeed, even if Cx43 phosphor­
+ylation can inhibit other molecules transfer such as IP3, it
+allows Ca[2][+] movement [46]. Thus, the calcium signaling
+in ECs observed in presence of SNs in the Fig. 1 might
+still be mediated through Cx43 activity.
+
+When looking at Cx43 in our co-culture model of ECs
+
+with SNs, an increase in Cx43 expression over time likely
+due to the increase in culture confluence (Fig. 2c), and
+a tendency in the phosphorylation rate were observed
+over time in the presence of SNs (Fig. 2d). Moreover,
+
+
+Cx43 protein expression tends to be upregulated in the
+presence of SNs relative to ECs cultured alone at day 4.
+An upregulation of Cx43 has been shown to positively
+modulate the angiogenic potential of endothelial cells by
+stimulating endothelial cell migration and network for­
+mation [47]. However, here, antagonists of CGRP and SP
+had no significant influence on the Cx43 protein expres­
+sion and phosphorylation ratio. Antagonist of SP may
+have showed a tendency to decrease protein expression
+(p = 0.07), but it did not influence significantly the phos­
+phorylation ratio. These results should be interpreted
+with caution and should be confirmed by further experi­
+ments before concluding on the role of SNs and these
+neuropeptides to control site-specific connexin phos­
+phorylation, associated with a control of gap junctional
+communication through Cx43.
+
+NO is also a potent mediator produced by the eNOS
+
+in ECs and is involved in endothelial functions by main­
+taining vascular homeostasis for example [48]. A Ca[2][+]dependent regulation of eNOS producing NO has already
+been described [49]. The eNOS is an important signal
+generator involved in the control of vascular tone and
+angiogenesis, regulated by several kinases acting at differ­
+ent sites to activate or inhibit NO production. Our results
+show that SNs increase NO production in ECs, probably
+involving a decrease in the eNOS T495 phosphorylation
+site without affecting eNOS protein expression, resulting
+thus in a stimulatory effect on eNOS activity. While SP
+seems not to be involved in the increase of NO produc­
+tion (Fig. 3e-f), the neuropeptide CGRP seems to be one
+of the mediators of this communication, since NO pro­
+duction is decreased in the presence of AntCGRP in the
+co-culture of ECs and SNs and increased when ECs are
+stimulated with synthetic CGRP. Our data are in accor­
+dance with the well-known vasodilator role of CGRP [50]
+and importantly, identify an important mechanism in
+which SNs can regulate ECs functions, in a NO-depen­
+dent manner.
+
+Interestingly, a study conducted by Gaete and coau­
+
+thors have suggested a contradictory effect of CGRP
+on NO production in mesenteric arterial beds [22]. The
+authors showed that CGRP signaling inhibits NO pro­
+duction through gap junction protein pannexin-1 chan­
+nel activation in ECs. Besides we did not evaluate the role
+of pannexin-1, here we used ECs isolated from bone mar­
+row microvasculature. The differences in the cells and tis­
+sues origin as well as the presence of different cell types
+in mesenteric arterial beds may explain the contradictory
+results observed in both situations. We developed an in
+vitro model to elucidate the cell communication and sig­
+naling between dissociated Dorsal Root Ganglia (DRG)
+cultures (including a mix of SNs and Schwann cells) and
+endothelial cells. Our approach does not reflect the com­
+plexity of the vascular tissue composition and response
+
+
+-----
+
+to SNs stimulation, however it allows us to describe the
+particular ECs response and to identify the main actors
+of their communication with SNs here and in our previ­
+ous study [3].
+
+Recently, an interesting relation between NO, Cx43 and
+
+Ca[2][+] signaling has been suggested to regulate endothelial
+cell migration, proposed by Espinoza and Figueroa [51].
+Using rat primary microvascular endothelial cells and
+a 2D migration scratch assay, the authors suggested the
+involvement of NO-mediated S-nitrosylation in Cx43
+hemichannels’ functions [51]. The activation of Cx43
+hemichannels by S-nitrosylation should play a critical
+role in the long-lasting increase in [Ca[2 ][+] i] that directs
+endothelial cell migration and network formation, sug­
+gesting that this mechanism may contribute to the NOmediated effects in angiogenesis. The data previously
+published by our team showing that SNs and the neuro­
+peptides SP and CGRP participate in the upregulation
+of angiogenesis markers in ECs such as _Angpt1,_ _Col4,_
+_Mmp2 and interestingly, VegfA [3]. As well known, VEGF_
+play an important role in ECs by contributing to vascu­
+lar integrity and endothelial homeostasis [52, 53] and
+but also it stimulates eNOS expression and activation
+
+[49, 54]. Here, we show that CGRP regulates NO pro­
+duction, likely indirectly participating in the activation
+of Cx43 channels through NO-mediated S-nitrosylation,
+permitting the Ca[2][+] entry and thus triggering multiple
+mechanisms stimulating ECs functions. In this sense, our
+findings presented here show the increase in [Ca[2 ][+] i] in
+ECs after SNs stimulation with capsaicin, a significant
+upregulation of NO production in ECs co-cultured with
+SNs, and only a tendency in Cx43 protein expression in
+ECs co-cultured with SNs at day 4 (p = 0,07). These data
+are in accordance with Espinoza’s and Figueroa’s observa­
+tions and confirm that SNs play an important role in the
+control of the endothelial cell functions such as migration
+and network formation.
+
+MAPK signaling proteins such as ERK1/2 and p38 are
+
+also known to be involved in processes such as angio­
+genesis by regulation of eNOS [55, 56] for example.
+Moreover, the ERK1/2 and p38 have been shown to be
+activated by the recognition of SP and CGRP, respec­
+tively, by their receptors in mesenchymal stem cells [57].
+This activation leads to the migration of MSCs to bone
+formation sites and increased osteogenesis. Here, p38
+protein expression and p38 phosphorylation ratio are not
+modulated by the presence of SNs nor by the presence
+of AntCGRP and AntSP at day 4 and day 7. Regarding
+Erk1/2, a downregulation of phosphorylation ratio was
+observed in ECs co-cultured with SNs at day 7 relative to
+day 4 and ECs cultured alone at day 7 (Fig. 5c), followed
+by an upregulation of Erk1/2 phosphorylation ratio in the
+presence of AntSP at day 7 (Fig. 5f). However, the effect
+of the neuropeptide SP on Erk1/2 phosphorylation was
+
+
+not confirmed when ECs alone were cultured in well
+plates in the presence of 1µM SP. It is important to note
+that when we identified the downregulation of Erk1/2
+phosphorylation ratio at day 7 and the upregulation of
+Erk1/2 phosphorylation ratio in the presence of AntSP,
+the ECs were co-cultured with SNs, reflecting a more
+complex physiological communication between both cell
+types relative to the culture of ECs alone with the culture
+medium supplemented with CGRP and SP individually.
+Indeed, the neuropeptides availability and concentrations
+are not the same for both situations, which can explain
+the absence of effect of SP on Erk1/2 phosphorylation
+ratio when SP was added to the ECs culture medium
+(Fig. 5i). It is known that SNs secrete other molecules and
+neuropeptides, which could take over or act in synergy
+with SP, explaining why SP in ECs culture medium does
+not significantly affect Erk1/2 phosphorylation ratio. A
+similar scenario was observed in our previous study [3],
+in which we identified that SP when in culture medium
+can upregulate _Mmp2 expression, however when ECs_
+were co-cultured with SNs in the presence of AntSP,
+_Mmp2 expression was only significantly reduced when_
+AntSP and AntCGRP were used combined, suggesting
+that other molecules might be involved in the regulation
+of Mmp2 expression by SNs.
+
+It is well described in the literature that in ECs, Erk1/2
+
+phosphorylation increases as a quick response followed
+by an angiogenic signal, and then the phosphorylation
+level is decreased due to the activity of Erk1/2 phospha­
+tases [58, 59]. Here, the time course used for the analysis
+of Erk1/2 expression and phosphorylation in the co-cul­
+tured ECs (4 and 7 days allowing the neurite outgrowth),
+that could impact angiogenesis, could not be appropri­
+ate with a signal of the MAPK activities. However, in
+our study, when we consider the Erk1/2 phosphoryla­
+tion ratio in ECs co-cultured with SNs from day 4 to 7,
+we observe a decrease in the phosphorylation ratio. This
+downregulation could be the result of the Erk1/2 phos­
+phatases activity, acting on a return of Erk1/2 phosphory­
+lation ratio to a base level after an earlier stimulation.
+Moreover, EC culture medium is a growth factor-rich
+environment, including VEGF-A in the composition,
+which could explain the high levels of Erk1/2 phosphor­
+ylation ratio in the group of ECs cultured alone at both
+time points.
+
+
+
+#References
+
+
+**References**
+1. Tomlinson RE, Clemens TL, Maes C. Vascular and nerve interactions. Principles
+of Bone Biology. Elsevier; 2020. pp. 205–18.
+
+2. Marrella A, Lee TY, Lee DH, et al. Engineering vascularized and innervated
+bone biomaterials for improved skeletal tissue regeneration. Mater Today.
+[2018;21:362–76. https://doi.org/10.1016/j.mattod.2017.10.005.](https://doi.org/10.1016/j.mattod.2017.10.005)
+
+3. Leroux A, Paiva dos Santos B, Leng J, et al. Sensory neurons from dorsal
+root ganglia regulate endothelial cell function in extracellular matrix
+[remodelling. Cell Commun Signal. 2020;18:162. https://doi.org/10.1186/](https://doi.org/10.1186/s12964-020-00656-0)
+[s12964-020-00656-0.](https://doi.org/10.1186/s12964-020-00656-0)
+
+4. Qin Q, Lee S, Patel N, et al. Neurovascular coupling in bone regeneration. Exp
+[Mol Med. 2022;54:1844–9. https://doi.org/10.1038/s12276-022-00899-6.](https://doi.org/10.1038/s12276-022-00899-6)
+
+5. Li Y, Fraser D, Mereness J, et al. Tissue Engineered Neurovascularization Strate­
+gies for Craniofacial tissue regeneration. ACS Appl Bio Mater. 2022;5:20–39.
+[https://doi.org/10.1021/acsabm.1c00979.](https://doi.org/10.1021/acsabm.1c00979)
+
+6. Zhang Z, Hao Z, Xian C, et al. Neuro-bone tissue engineering: multiple
+potential translational strategies between nerve and bone. Acta Biomater.
+[2022;153:1–12. https://doi.org/10.1016/j.actbio.2022.09.023.](https://doi.org/10.1016/j.actbio.2022.09.023)
+
+7. Yuan Q, Sun L, Yu H, An C. Human microvascular endothelial cell promotes
+the development of dorsal root ganglion neurons via BDNF pathway in a co[culture system. Biosci Biotechnol Biochem. 2017;81:1335–42. https://doi.org/](https://doi.org/10.1080/09168451.2017.1313695)
+[10.1080/09168451.2017.1313695.](https://doi.org/10.1080/09168451.2017.1313695)
+
+8. Mapp PI, McWilliams DF, Turley MJ, et al. A role for the sensory neu­
+ropeptide calcitonin gene-related peptide in endothelial cell pro­
+[liferation in vivo. Br J Pharmacol. 2012;166:1261–71. https://doi.](https://doi.org/10.1111/j.1476-5381.2012.01848.x)
+[org/10.1111/j.1476-5381.2012.01848.x.](https://doi.org/10.1111/j.1476-5381.2012.01848.x)
+
+9. Kim D, Piao J, Park JS et al. (2023) Substance P-Mediated Vascular Protec­
+tion Ameliorates Bone Loss. Oxidative Medicine and Cellular Longevity
+[2023:e9903336. https://doi.org/10.1155/2023/9903336](https://doi.org/10.1155/2023/9903336)
+
+10. Malheiro A, Wieringa P, Moroni L. Peripheral neurovascular link: an over­
+
+view of interactions and in vitro models. Trends Endocrinol Metabolism.
+[2021;32:623–38. https://doi.org/10.1016/j.tem.2021.05.004.](https://doi.org/10.1016/j.tem.2021.05.004)
+
+11. Silva DI, dos Santos BP, Leng J, et al. Dorsal root ganglion neurons regulate
+
+the transcriptional and translational programs of osteoblast differentiation
+[in a microfluidic platform. Cell Death Dis. 2017;8. https://doi.org/10.1038/](https://doi.org/10.1038/s41419-017-0034-3)
+[s41419-017-0034-3.](https://doi.org/10.1038/s41419-017-0034-3)
+
+12. Guerra G, Lucariello A, Perna A, et al. The role of endothelial Ca2 + signaling in
+
+[neurovascular coupling: a View from the Lumen. IJMS. 2018;19:938. https://](https://doi.org/10.3390/ijms19040938)
+[doi.org/10.3390/ijms19040938.](https://doi.org/10.3390/ijms19040938)
+
+13. Peterlik M, Kállay E, Cross H. Calcium Nutrition and Extracellular Calcium sens­
+
+ing: relevance for the pathogenesis of osteoporosis, Cancer and Cardiovascu­
+[lar diseases. Nutrients. 2013;5:302–27. https://doi.org/10.3390/nu5010302.](https://doi.org/10.3390/nu5010302)
+
+14. Moccia N, Shekha, et al. Endothelial Ca2 + signaling, angiogenesis and
+
+Vasculogenesis: just what it takes to make a blood vessel. IJMS. 2019;20:3962.
+[https://doi.org/10.3390/ijms20163962.](https://doi.org/10.3390/ijms20163962)
+
+15. Quyyumi AA, Mulcahy D, Andrews NP, et al. Coronary vascular nitric oxide
+
+activity in hypertension and hypercholesterolemia: comparison of Acetylcho­
+[line and Substance P. Circulation. 1997;95:104–10. https://doi.org/10.1161/01.](https://doi.org/10.1161/01.CIR.95.1.104)
+[CIR.95.1.104.](https://doi.org/10.1161/01.CIR.95.1.104)
+
+16. Ashraf S, Mapp PI, Walsh DA. Contributions of angiogenesis to inflamma­
+
+tion, joint damage, and pain in a rat model of osteoarthritis. Arthr Rhuem.
+[2011;63:2700–10. https://doi.org/10.1002/art.30422.](https://doi.org/10.1002/art.30422)
+
+17. Hsu Y-Y, Jou Y-T, Wong R, et al. Effect of nitric oxide synthase inhibitor
+
+(L-NAME) on substance P-induced vasodilatation in the dental pulp:
+[substance P-induced vasodilatation. Int Endod J. 2003;36:840–7. https://doi.](https://doi.org/10.1111/j.1365-2591.2003.00722.x)
+[org/10.1111/j.1365-2591.2003.00722.x.](https://doi.org/10.1111/j.1365-2591.2003.00722.x)
+
+18. Kohara H, Tajima S, Yamamoto M, Tabata Y. Angiogenesis induced by con­
+
+trolled release of neuropeptide substance P. Biomaterials. 2010;31:8617–25.
+[https://doi.org/10.1016/j.biomaterials.2010.07.079.](https://doi.org/10.1016/j.biomaterials.2010.07.079)
+
+
+19. Li D-W, Liu Z-Q, Wei J, et al. Contribution of endothelial progenitor cells to
+
+[neovascularization. Int J Mol Med. 2012;30:1000–6. https://doi.org/10.3892/](https://doi.org/10.3892/ijmm.2012.1108)
+[ijmm.2012.1108.](https://doi.org/10.3892/ijmm.2012.1108)
+
+20. Karabucak B, Walsch H, Jou Y-T, et al. The role of endothelial nitric oxide
+
+in the Substance P Induced Vasodilation in bovine Dental Pulp. J Endod.
+[2005;31:733–6. https://doi.org/10.1097/01.don.0000157988.13010.25.](https://doi.org/10.1097/01.don.0000157988.13010.25)
+
+21. Malin SA, Davis BM, Molliver DC. Production of dissociated sensory neuron
+
+cultures and considerations for their use in studying neuronal function and
+[plasticity. Nat Protoc. 2007;2:152–60. https://doi.org/10.1038/nprot.2006.461.](https://doi.org/10.1038/nprot.2006.461)
+
+22. Gaete PS, Lillo MA, Puebla M, et al. CGRP signalling inhibits NO produc­
+
+tion through pannexin-1 channel activation in endothelial cells. Sci Rep.
+[2019;9:7932. https://doi.org/10.1038/s41598-019-44333-w.](https://doi.org/10.1038/s41598-019-44333-w)
+
+23. Emonds-Alt X, Doutremepuich J-D, Heaulme M, et al. In vitro and in vivo
+
+biological activities of SR140333, a novel potent non-peptide tachykinin
+[NK1 receptor antagonist. Eur J Pharmacol. 1993;250:403–13. https://doi.](https://doi.org/10.1016/0014-2999(93)90027-F)
+[org/10.1016/0014-2999(93)90027-F.](https://doi.org/10.1016/0014-2999(93)90027-F)
+
+24. Doods H, Hallermayer G, Wu D, et al. Pharmacological profile of BIB­
+
+N4096BS, the first selective small molecule CGRP antagonist. Br J Pharmacol.
+[2000;129:420–3. https://doi.org/10.1038/sj.bjp.0703110.](https://doi.org/10.1038/sj.bjp.0703110)
+
+25. O’Brien J, Wilson I, Orton T, Pognan F. Investigation of the Alamar
+
+Blue (resazurin) fluorescent dye for the assessment of mamma­
+[lian cell cytotoxicity. Eur J Biochem. 2000;267:5421–6. https://doi.](https://doi.org/10.1046/j.1432-1327.2000.01606.x)
+[org/10.1046/j.1432-1327.2000.01606.x.](https://doi.org/10.1046/j.1432-1327.2000.01606.x)
+
+26. Franco-Cereceda A, Henke H, Lundberg JM, et al. Calcitonin gene-related
+
+peptide (CGRP) in capsaicin-sensitive substance P-immunoreactive sensory
+neurons in animals and man: distribution and release by capsaicin. Peptides.
+[1987;8:399–410. https://doi.org/10.1016/0196-9781(87)90117-3.](https://doi.org/10.1016/0196-9781(87)90117-3)
+
+27. Russell FA, King R, Smillie S-J, et al. Calcitonin gene-related peptide: physiol­
+
+[ogy and pathophysiology. Physiol Rev. 2014;94:1099–142. https://doi.](https://doi.org/10.1152/physrev.00034.2013)
+[org/10.1152/physrev.00034.2013.](https://doi.org/10.1152/physrev.00034.2013)
+
+28. Ribeiro-Rodrigues TM, Martins-Marques T, Morel S, et al. Role of connexin 43
+
+in different forms of intercellular communication – gap junctions, extracel­
+[lular vesicles and tunnelling nanotubes. J Cell Sci jcs. 2017;200667. https://](https://doi.org/10.1242/jcs.200667)
+[doi.org/10.1242/jcs.200667.](https://doi.org/10.1242/jcs.200667)
+
+29. Leybaert L, Sanderson MJ. Intercellular Ca2 + waves: mechanisms
+
+[and function. Physiol Rev. 2012;92:1359–92. https://doi.org/10.1152/](https://doi.org/10.1152/physrev.00029.2011)
+[physrev.00029.2011.](https://doi.org/10.1152/physrev.00029.2011)
+
+30. Hoorelbeke D, Decrock E, De Smet M, et al. Cx43 channels and signaling
+
+via IP3/Ca2+, ATP, and ROS/NO propagate radiation-induced DNA damage
+to non-irradiated brain microvascular endothelial cells. Cell Death Dis.
+[2020;11:1–17. https://doi.org/10.1038/s41419-020-2392-5.](https://doi.org/10.1038/s41419-020-2392-5)
+
+31. Musil LS, Goodenough DA. Biochemical analysis of connexin43 intracellular
+
+transport, phosphorylation, and assembly into gap junctional plaques. J Cell
+[Biol. 1991;115:1357–74. https://doi.org/10.1083/jcb.115.5.1357.](https://doi.org/10.1083/jcb.115.5.1357)
+
+32. Dora KA, Doyle MP, Duling BR. (1997) Elevation of intracellular calcium
+
+in smooth muscle causes endothelial cell generation of NO in arterioles.
+[Proceedings of the National Academy of Sciences 94:6529–6534. https://doi.](https://doi.org/10.1073/pnas.94.12.6529)
+[org/10.1073/pnas.94.12.6529](https://doi.org/10.1073/pnas.94.12.6529)
+
+33. Chen Z-P, Mitchelhill KI, Michell BJ, et al. AMP-activated protein kinase phos­
+
+[phorylation of endothelial NO synthase. FEBS Lett. 1999;443:285–9. https://](https://doi.org/10.1016/S0014-5793(98)01705-0)
+[doi.org/10.1016/S0014-5793(98)01705-0.](https://doi.org/10.1016/S0014-5793(98)01705-0)
+
+34. Borbiev T, Birukova A, Liu F, et al. p38 MAP kinase-dependent regula­
+
+tion of endothelial cell permeability. Am J Physiol Lung Cell Mol Physiol.
+[2004;287:L911–918. https://doi.org/10.1152/ajplung.00372.2003.](https://doi.org/10.1152/ajplung.00372.2003)
+
+35. Chrestensen CA, McMurry JL, Salerno JC. MAP kinases bind endothelial
+
+[nitric oxide synthase. FEBS Open Bio. 2012;2:51–5. https://doi.org/10.1016/j.](https://doi.org/10.1016/j.fob.2012.02.002)
+[fob.2012.02.002.](https://doi.org/10.1016/j.fob.2012.02.002)
+
+36. Evans J, Ko Y, Mata W, et al. Arachidonic acid induces brain endothelial cell
+
+apoptosis via p38-MAPK and intracellular calcium signaling. Microvasc Res.
+[2015;98:145–58. https://doi.org/10.1016/j.mvr.2014.04.011.](https://doi.org/10.1016/j.mvr.2014.04.011)
+
+37. Isosaari L, Vuorenpää H, Yrjänäinen A, et al. Simultaneous induction of vascu­
+
+lature and neuronal network formation on a chip reveals a dynamic interrela­
+[tionship between cell types. Cell Communication Signal. 2023;21:132. https://](https://doi.org/10.1186/s12964-023-01159-4)
+[doi.org/10.1186/s12964-023-01159-4.](https://doi.org/10.1186/s12964-023-01159-4)
+
+38. Kumar V, Kingsley D, Perikamana SM, et al. Self-assembled innervated
+
+vasculature-on-a-chip to study nociception. Biofabrication. 2023;15:035008.
+[https://doi.org/10.1088/1758-5090/acc904.](https://doi.org/10.1088/1758-5090/acc904)
+
+39. Filippini A, D’Amore A, D’Alessio A. Calcium mobilization in endothelial cell
+
+[functions. Int J Mol Sci. 2019;20:4525. https://doi.org/10.3390/ijms20184525.](https://doi.org/10.3390/ijms20184525)
+
+40. Muller Q, Beaudet M-J, De Serres-Bérard T, et al. Development of an inner­
+
+vated tissue-engineered skin with human sensory neurons and Schwann
+
+
+-----
+
+[cells differentiated from iPS cells. Acta Biomater. 2018;82:93–101. https://doi.](https://doi.org/10.1016/j.actbio.2018.10.011)
+[org/10.1016/j.actbio.2018.10.011.](https://doi.org/10.1016/j.actbio.2018.10.011)
+
+41. Lampe PD, Lau AF. Regulation of gap junctions by phosphorylation of Con­
+
+[nexins. Arch Biochem Biophys. 2000;384:205–15. https://doi.org/10.1006/](https://doi.org/10.1006/abbi.2000.2131)
+[abbi.2000.2131.](https://doi.org/10.1006/abbi.2000.2131)
+
+42. Lampe PD, Lau AF. The effects of connexin phosphorylation on gap junc­
+
+[tional communication. Int J Biochem Cell Biol. 2004;36:1171–86. https://doi.](https://doi.org/10.1016/S1357-2725(03)00264-4)
+[org/10.1016/S1357-2725(03)00264-4.](https://doi.org/10.1016/S1357-2725(03)00264-4)
+
+43. Straub AC, Johnstone SR, Heberlein KR, et al. Site-specific connexin phos­
+
+phorylation is Associated with reduced Heterocellular communication
+between smooth muscle and endothelium. J Vasc Res. 2010;47:277–86.
+[https://doi.org/10.1159/000265562.](https://doi.org/10.1159/000265562)
+
+44. Nimlamool W, Andrews RMK, Falk MM. Connexin43 phosphorylation by
+
+PKC and MAPK signals VEGF-mediated gap junction internalization. MBoC.
+[2015;26:2755–68. https://doi.org/10.1091/mbc.E14-06-1105.](https://doi.org/10.1091/mbc.E14-06-1105)
+
+45. Solan JL, Lampe PD. Connexin phosphorylation as a regulatory event linked
+
+to gap junction channel assembly. Biochim et Biophys Acta (BBA) - Bio­
+[membr. 2005;1711:154–63. https://doi.org/10.1016/j.bbamem.2004.09.013.](https://doi.org/10.1016/j.bbamem.2004.09.013)
+
+46. Márquez-Rosado L, Solan JL, Dunn CA, et al. Connexin43 phosphorylation
+
+in brain, cardiac, endothelial and epithelial tissues. Biochim et Biophys
+[Acta (BBA) - Biomembr. 2012;1818:1985–92. https://doi.org/10.1016/j.](https://doi.org/10.1016/j.bbamem.2011.07.028)
+[bbamem.2011.07.028.](https://doi.org/10.1016/j.bbamem.2011.07.028)
+
+47. Koepple C, Zhou Z, Huber L, et al. Expression of Connexin43 stimulates
+
+endothelial angiogenesis independently of gap Junctional Communication
+[in Vitro. Int J Mol Sci. 2021;22:7400. https://doi.org/10.3390/ijms22147400.](https://doi.org/10.3390/ijms22147400)
+
+48. Tousoulis D, Kampoli A-M, Tentolouris Nikolaos Papageorgiou C, Stefanadis
+
+[C. The role of nitric oxide on endothelial function. CVP. 2012;10:4–18. https://](https://doi.org/10.2174/157016112798829760)
+[doi.org/10.2174/157016112798829760.](https://doi.org/10.2174/157016112798829760)
+
+49. Devika NT, Ali BMJ. Analysing calcium dependent and independent regula­
+
+tion of eNOS in endothelium triggered by extracellular signalling events. Mol
+[BioSyst. 2013;9:2653–64. https://doi.org/10.1039/C3MB70258H.](https://doi.org/10.1039/C3MB70258H)
+
+50. Brain SD, Williams TJ, Tippins JR, et al. Calcitonin gene-related peptide is a
+
+[potent vasodilator. Nature. 1985;313:54–6. https://doi.org/10.1038/313054a0.](https://doi.org/10.1038/313054a0)
+
+51. Espinoza H, Figueroa XF. Opening of Cx43-formed hemichannels mediates
+
+the Ca2 + signaling associated with endothelial cell migration. Biol Direct.
+[2023;18:52. https://doi.org/10.1186/s13062-023-00408-3.](https://doi.org/10.1186/s13062-023-00408-3)
+
+
+52. Cao EG, Bhattacharya Y S, et al. Endogenous vascular endothelial growth
+
+factor-A (VEGF-A) maintains endothelial cell homeostasis by regulating
+[VEGF receptor-2 transcription. J Biol Chem. 2012;287:3029–41. https://doi.](https://doi.org/10.1074/jbc.M111.293985)
+[org/10.1074/jbc.M111.293985.](https://doi.org/10.1074/jbc.M111.293985)
+
+53. Domigan CK, Warren CM, Antanesian V, et al. Autocrine VEGF maintains
+
+endothelial survival through regulation of metabolism and autophagy. J Cell
+[Sci. 2015;128:2236–48. https://doi.org/10.1242/jcs.163774.](https://doi.org/10.1242/jcs.163774)
+
+54. Kroll J, Waltenberger J. VEGF-A induces expression of eNOS and iNOS in
+
+endothelial cells via VEGF Receptor-2 (KDR). Biochem Biophys Res Commun.
+[1998;252:743–6. https://doi.org/10.1006/bbrc.1998.9719.](https://doi.org/10.1006/bbrc.1998.9719)
+
+55. Salerno JC, Ghosh DK, Razdan R, et al. Endothelial nitric oxide synthase is
+
+regulated by ERK phosphorylation at Ser602. Biosci Rep. 2014;34:e00137.
+[https://doi.org/10.1042/BSR20140015.](https://doi.org/10.1042/BSR20140015)
+
+56. Huang S, Taylor CG, Zahradka P. Growth State-Dependent activation of eNOS
+
+in response to DHA: involvement of p38 MAPK. Int J Mol Sci. 2023;24:8346.
+[https://doi.org/10.3390/ijms24098346.](https://doi.org/10.3390/ijms24098346)
+
+57. Wang X-D, Li S-Y, Zhang S-J, et al. The neural system regulates bone homeo­
+
+stasis via mesenchymal stem cells: a translational approach. Theranostics.
+[2020;10:4839–50. https://doi.org/10.7150/thno.43771.](https://doi.org/10.7150/thno.43771)
+
+58. Bellou S, Hink MA, Bagli E, et al. VEGF autoregulates its proliferative and
+
+migratory ERK1/2 and p38 cascades by enhancing the expression of DUSP1
+and DUSP5 phosphatases in endothelial cells. Am J Physiol Cell Physiol.
+[2009;297:C1477–1489. https://doi.org/10.1152/ajpcell.00058.2009.](https://doi.org/10.1152/ajpcell.00058.2009)
+
+59. Fish JE, Cantu Gutierrez M, Dang LT, et al. Dynamic regulation of VEGF
+inducible genes by an ERK/ERG/p300 transcriptional network. Development.
+[2017;144:2428–44. https://doi.org/10.1242/dev.146050.](https://doi.org/10.1242/dev.146050)
