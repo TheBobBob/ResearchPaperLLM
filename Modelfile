@@ -1,6 +1,7 @@
 FROM llama3
-PARAMETER temperature 0.1
+PARAMETER temperature 0.0
 PARAMETER seed 42
 PARAMETER top_k 25
 PARAMETER top_p 1.5
+
 
