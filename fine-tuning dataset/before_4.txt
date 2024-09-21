@@ -1,0 +1,311 @@
+#Title
+
+
+## RESEARCH ARTICLE Open Access
+
+# Comparative study of the growth, stress status and reproductive capabilities of four wild‑type zebrafish (Danio rerio) lines
+
+Céline Chevalier[1*], Clémence Denis[1], Sid‑Ahmed Nedjar[1], Yannick Ledoré[1], Frédéric Silvestre[2],
+Bérénice Schaerlinger[1] and Sylvain Milla[1*]
+
+**Abstract**
+**Background Zebrafish are widely used in various research fields and to fulfil the diverse research needs, numerous**
+zebrafish lines are available, each with a unique domestication background, potentially resulting in intraspecies differ‑
+ences in specific biological functions. Few studies have compared multiple zebrafish lines under identical conditions
+to investigate both inter- and intra-line variability related to different functions. However, such variability could pose
+a challenge for the reproducibility of results in studies utilising zebrafish, particularly when the line used is not clearly
+specified. This study assessed growth, stress status (cortisol, serotonin) and reproductive capabilities (maturity, fecun‑
+dity, fertilisation rate, sperm quality) of four commonly used wild-type zebrafish lines (AB, SJD, TU, WIK) using stand‑
+ardized protocols.
+**Results The stress markers levels were found to be similar across the lines, indicating that the endocrine stress**
+status is robust to diverse domestication histories. Variations were observed in the growth and reproductive param‑
+eters. The lines exhibited differences in the timing of puberty (86 dpf for AB and SJD lines vs. 107 dpf for the WIK
+line) despite achieving similar sizes, suggesting that there are line-specific variations in the induction of maturation.
+Additionally, the AB line demonstrated higher sperm quality than did the other lines and higher fecundity and fertili‑
+zation rates than did the SJD line. The AB line also exhibiting a smaller adult size but a heavier brain relative to its body
+weight.
+
+
+#Authors
+
+
+# Comparative study of the growth, stress status and reproductive capabilities of four wild‑type zebrafish (Danio rerio) lines
+
+Céline Chevalier[1*], Clémence Denis[1], Sid‑Ahmed Nedjar[1], Yannick Ledoré[1], Frédéric Silvestre[2],
+Bérénice Schaerlinger[1] and Sylvain Milla[1*]
+
+**Abstract**
+**Background Zebrafish are widely used in various research fields and to fulfil the diverse research needs, numerous**
+zebrafish lines are available, each with a unique domestication background, potentially resulting in intraspecies differ‑
+ences in specific biological functions. Few studies have compared multiple zebrafish lines under identical conditions
+to investigate both inter- and intra-line variability related to different functions. However, such variability could pose
+a challenge for the reproducibility of results in studies utilising zebrafish, particularly when the line used is not clearly
+specified. This study assessed growth, stress status (cortisol, serotonin) and reproductive capabilities (maturity, fecun‑
+dity, fertilisation rate, sperm quality) of four commonly used wild-type zebrafish lines (AB, SJD, TU, WIK) using stand‑
+ardized protocols.
+
+
+#Summary
+
+
+**Abstract**
+
+
+
+
+
+**Conclusion**
+Our results highlight for the first time that differences
+may exist among various wild-type zebrafish lines reared
+in exactly same conditions, particularly concerning both
+development and reproduction. These differences could
+be a problem for reproducibility of research results, especially because many studies do not precisely mention the
+zebrafish line used or the origin of the line. Opting for a
+specific line could influence the results of a given study
+and affect the generalisability of the findings to other
+populations. Importantly, selecting a commonly used
+line does not necessarily ensure the representativeness of
+the overall results. When selecting a zebrafish line, it is
+crucial to consider the biological relevance of the characteristics specific to each line. The line choice must be
+deliberate, guided by an in-depth understanding of the
+specific characteristics sought and the known genetic
+and/or phenotypic variations among the zebrafish lines.
+
+
+
+
+#Background and Significance
+
+
+
+
+
+
+
+
+#Methods
+
+
+**Materials and methods**
+
+
+
+
+
+#Results
+
+
+
+
+
+#Discussion
+
+
+**Discussion**
+In recent decades, the zebrafish model has become
+increasingly popular in research [22, 23]. Consequently,
+to meet the needs of researchers, several zebrafish lines
+have been made available [6]. Each of these lines has
+evolved through a different process of adaptation to laboratory conditions, marked by distinct and specific choices
+of the founder populations, the genetic selection methods applied, the way the lines were reproduced and the
+number of generations reared in captivity [5, 7, 18–20].
+Taken together, these findings may explain the differences in phenotypes among these lines. The aim of this
+study was to compare key parameters related to growth,
+stress response, and reproduction in commonly used WT
+lines bred under the same laboratory conditions to identify potential differences and similarities among them.
+Stress hormones are classical physiological indicators
+used to evaluate stress responses in fish. In this study, the
+cortisol levels were very similar among the four tested
+lines. These measured whole-body cortisol levels can be
+interpreted as the basal cortisol level since the hormone
+
+
+peak in zebrafish occurs 15 min after stress induction [25,
+26], while levels were measured less than 5 min after capture in this study. Similarly, equivalent serotonin brain
+levels between the AB and TU lines have been reported
+in the literature [27], and we confirmed this trend among
+the four lines tested (Fig. 5). This similarity between the
+two hormones might be explained by the relationship
+between serotonin and cortisol, the former playing a role
+in the release of the latter [28]. Therefore, these results
+are an initial indication that the level of stress hormones
+in zebrafish is potentially robust to the different domestication routes applied and that the line choice is not a key
+parameter impacting the results for endocrine evaluation
+of basal stress in zebrafish.
+One of the factors that makes the zebrafish an increasingly popular animal model is its short life cycle.
+Zebrafish are mature at approximatively 3 months of age
+
+[5], even if puberty is more related to body growth than
+to age in both sexes [29, 30]. Our comparisons of the AB,
+SJD, TU and WIK lines highlighted differences in both
+growth and puberty timing. The AB and SJD lines were
+
+
+-----
+
+
+
+#References
+
+
+**References**
+1. Modlinska K, Pisula W. The Norway rat, from an obnoxious pest to a
+laboratory pet. Elife. 2020;9: e50651.
+
+2. Faraday MM. Rat sex and strain differences in responses to stress. Physiol
+Behav. 2002;75(4):507–22.
+
+3. Rex A, Kolbasenko A, Bert B, Fink H. Choosing the Right wild type: behav‑
+ioral and neurochemical differences between 2 populations of spraguedawley rats from the same source but maintained at different sites. J Am
+Assoc Lab Anim Sci. 2007;46(5):13–20.
+
+4. Welniak-Kaminska M, Fiedorowicz M, Orzel J, Bogorodzki P, Modlinska
+K, Stryjek R, et al. Volumes of brain structures in captive wild-type and
+
+
+laboratory rats: 7T magnetic resonance in vivo automatic atlas-based
+study. PLoS ONE. 2019;14(4): e0215348.
+
+5. Harper C, Lawrence C. The laboratory zebrafish. Laboratory animal pocket
+reference series. Boca Raton: CRC Press; 2011. p. 254.
+
+6. [ZFIN: Wild-Type Lines: Summary Listing. http://​zfin.​org/​action/​featu​re/​](http://zfin.org/action/feature/wildtype-list)
+[wildt​ype-​list. Accessed 17 May 2024.](http://zfin.org/action/feature/wildtype-list)
+
+7. Trevarrow B, Robison B. Genetic Backgrounds, standard lines, and
+husbandry of zebrafish. In: Methods in cell biology, vol. 77. Cambridge:
+Academic Press; 2004. p. 599–616.
+
+8. Padovani BN, do Abrantes Amaral M, Fénero CM, Paredes LC, de Boturra
+Barros GJ, Xavier IK, et al. Different wild type strains of zebrafish show
+divergent susceptibility to TNBS-induced intestinal inflammation display‑
+ing distinct immune cell profiles. Curr Res Immunol. 2022;3:13–22.
+
+9. Gorissen M, Manuel R, Pelgrim TNM, Mes W, de Wolf MJS, Zethof J, et al.
+Differences in inhibitory avoidance, cortisol and brain gene expression in
+TL and AB zebrafish. Genes Brain Behav. 2015;14(5):428–38.
+
+10. Guryev V, Koudijs MJ, Berezikov E, Johnson SL, Plasterk RHA, van
+Eeden FJM, et al. Genetic variation in the zebrafish. Genome Res.
+2006;16(4):491–7.
+
+11. Whiteley AR, Bhat A, Martins EP, Mayden RL, Arunachalam M, Uusi-Heik‑
+kilä S, et al. Population genomics of wild and laboratory zebrafish (Danio
+_rerio ). Mol Ecol. 2011;20(20):4259–76._
+
+12. Coe TS, Hamilton PB, Griffiths AM, Hodgson DJ, Wahab MA, Tyler CR.
+Genetic variation in strains of zebrafish (Danio rerio) and the implications
+for ecotoxicology studies. Ecotoxicology. 2009;18(1):144–50.
+
+13. Milla S, Pasquet A, El Mohajer L, Fontaine P. How domestication alters fish
+phenotypes. Rev Aquacult. 2021;13(1):388–405.
+
+14. Pasquet A. Effects of Domestication on Fish Behaviour. In: Teletchea F,
+editor. Animal Domestication. London: IntechOpen; 2019.
+
+15. Holden LA, Brown KH. Baseline mRNA expression differs widely between
+common laboratory strains of zebrafish. Sci Rep. 2018;8(1):4780.
+
+16. Haffter P, Granato M, Brand M, Mullins MC, Hammerschmidt M, Kane DA,
+et al. The identification of genes with unique and essential functions in
+the development of the zebrafish. Danio rerio Dev. 1996;123(1):1–36.
+
+17. Jekosch K. The zebrafish genome project: sequence analysis and annota‑
+tion. In: Methods in cell biology, vol. 77. Cambridge: Academic Press;
+2004. p. 225–39.
+
+18. Mullins MC, Hammerschmidt M, Haffter P, Nüsslein-Volhard C. Large-scale
+mutagenesis in the zebrafish: in search of genes controlling develop‑
+ment in a vertebrate. Curr Biol. 1994;4(3):189–202.
+
+19. Rauch GJ, Granato M, Haffter P. A polymorphic zebrafish line for genetic
+mapping using SSLPs on high-percentage agarose gels. Tech Tips Online.
+1997;2(1):148–50.
+
+20. Johnson SL, Africa D, Horne S, Postlethwait JH. Half-tetrad analysis in
+zebrafish: mapping the ros mutation and the centromere of linkage
+group I. Genetics. 1995;139(4):1727–35.
+
+21. Nechiporuk A, Finney JE, Keating MT, Johnson SL. Assessment of poly‑
+morphism in zebrafish mapping strains. Genome Res. 1999;9(12):1231–8.
+
+22. Kinth P, Mahesh G, Panwar Y. Mapping of zebrafish research: a global
+outlook. Zebrafish. 2013;10(4):510–7.
+
+23. Teame T, Zhang Z, Ran C, Zhang H, Yang Y, Ding Q, et al. The use
+of zebrafish (Danio rerio) as biomedical models. Anim Front.
+2019;9(3):68–77.
+
+24. Parichy DM, Elizondo MR, Mills MG, Gordon TN, Engeszer RE. Normal table
+of postembryonic zebrafish development: Staging by externally visible
+anatomy of the living fish. Dev Dyn. 2009;238(12):2975–3015.
+
+25. Ramsay JM, Feist GW, Varga ZM, Westerfield M, Kent ML, Schreck CB.
+Whole-body cortisol response of zebrafish to acute net handling stress.
+Aquaculture. 2009;297(1):157–62.
+
+26. Tran S, Chatterjee D, Gerlai R. Acute net stressor increases whole-body
+cortisol levels without altering whole-brain monoamines in zebrafish.
+Behav Neurosci. 2014;128(5):621–4.
+
+27. Mahabir S, Chatterjee D, Buske C, Gerlai R. Maturation of shoaling in two
+zebrafish strains: a behavioral and neurochemical analysis. Behav Brain
+Res. 2013;247:1–8.
+
+28. Herculano AM, Maximino C. Serotonergic modulation of zebrafish behav‑
+ior: towards a paradox. Prog Neuropsychopharmacol Biol Psychiatry.
+2014;55:50–66.
+
+29. Chen W, Ge W. Gonad differentiation and puberty onset in the zebrafish:
+evidence for the dependence of puberty onset on body growth but
+
+
+-----
+
+not age in females: G rowth and P uberty in the Z ebrafish. Mol Reprod Dev.
+2013;80(5):384–92.
+
+30. Dai X, Pu D, Wang L, Cheng X, Liu X, Yin Z, et al. Emergence of breeding
+tubercles and puberty onset in male zebrafish: evidence for a depend‑
+ence on body growth. J Fish Biol. 2021;99(3):1071–8.
+
+31. Perry SF. Zebrafish. 1st ed. Amsterdam London: Academic Press Elsevier;
+2010.
+
+32. Lister AL, Van Der Kraak G. An investigation into the role of prostaglandins
+in zebrafish oocyte maturation and ovulation. Gen Comp Endocrinol.
+2008;159(1):46–57.
+
+33. Svåsand T, Jørstad KE, Otterå H, Kjesbu OS. Differences in growth perfor‑
+mance between Arcto-Norwegian and Norwegian coastal cod reared
+under identical conditions. J Fish Biol. 1996;49(1):108–19.
+
+34. Osure GO, Phelps RP. Evaluation of reproductive performance and early
+growth of four strains of Nile tilapia (Oreochromis niloticus, L) with differ‑
+ent histories of domestication. Aquaculture. 2006;253(1):485–94.
+
+35. McMenamin SK, Chandless MN, Parichy DM. Working with zebrafish at
+postembryonic stages. In: Methods in cell biology. Amsterdam: Elsevier;
+2016. p. 587–607.
+
+36. Yanai J. Strain and sex differences in the rat brain. Acta Anat.
+2008;103(2):150–8.
+
+37. Ishikawa Y, Yoshimoto M, Yamamoto N, Ito H. Different brain morpholo‑
+gies from different genotypes in a single teleost species, the Medaka
+(Oryzias latipes). Brain Behav Evol. 1998;53(1):2–9.
+
+38. Kruska D. Comparative quantitative study on brains of wild and labora‑
+tory rats. I. Comparison of volume of total brain and classical brain parts. J
+Hirnforsch. 1975;16(6):469–83.
+
+39. Burns JG, Saravanan A, Helen RF. Rearing environment affects the brain
+size of guppies: lab-reared guppies have smaller brains than wild-caught
+guppies. Ethology. 2009;115(2):122–33.
+
+40. Kihslinger RL, Lema SC, Nevitt GA. Environmental rearing conditions pro‑
+duce forebrain differences in wild Chinook salmon Oncorhynchus tshaw‑
+ytscha. Comp Biochem Physiol A: Mol Integr Physiol. 2006;145(2):145–51.
+
+41. Marchetti MP, Nevitt GA. Effects of hatchery rearing on brain structures of
+rainbow trout Oncorhynchus mykiss. Environ Biol Fish. 2003;66(1):9–14.

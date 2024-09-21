@@ -1,0 +1,236 @@
+#Title
+
+
+https://doi.org/10.1186/s40659 024 00546 6
+
+## RESEARCH ARTICLE Open Access
+
+# PTN from Leydig cells activates SDC2 and modulates human spermatogonial stem cell proliferation and survival via GFRA1
+
+Xueheng Zhao[1,2,3], Lvjun Liu[1], Zenghui Huang[2,3], Fang Zhu[2,3], Huan Zhang[2,3] and Dai Zhou[1,2,3*]
+
+**Abstract**
+**Background Spermatogonial stem cells (SSCs) are essential for the maintenance and initiation of male**
+spermatogenesis. Despite the advances in understanding SSC biology in mouse models, the mechanisms underlying
+human SSC development remain elusive.
+
+
+#Authors
+
+
+## RESEARCH ARTICLE Open Access
+
+# PTN from Leydig cells activates SDC2 and modulates human spermatogonial stem cell proliferation and survival via GFRA1
+
+Xueheng Zhao[1,2,3], Lvjun Liu[1], Zenghui Huang[2,3], Fang Zhu[2,3], Huan Zhang[2,3] and Dai Zhou[1,2,3*]
+
+**Abstract**
+
+
+#Summary
+
+
+**Fig. 7 Graphic abstracts of this study. Using single-cell sequencing analysis and in vitro experiments, we found that Leydig cell-derived PTN promotes**
+proliferation and self-renewal of human spermatogonial stem cells through binding to its ligand SDC2, and that their dysregulation may be associated
+with non-obstructive azoospermia
+
+
+Afterwards, we incubated sections overnight at 4°C with
+the primary antibodies mentioned in Table S2. Following
+three rinses with PBS, the sections were then treated with
+horseradish peroxidase-conjugated goat anti-rabbit sec­
+ondary antibody and incubated at room temperature for
+one hour. The color development was achieved using the
+3,3’-diaminobenzidine chromogen kit (Dako, Glostrup,
+Denmark). The nucleus was stained with hematoxylin for
+a duration of 7 min at room temperature. In immuno­
+fluorescence, the primary antibody was incubated at 4 °C
+for 16 h, followed by chromogenic development using
+Alexa Fluor conjugated secondary antibody. Addition­
+ally, the cell nuclei were counterstained with 4’,6-diamid­
+ino-2-phenylindole (DAPI). We captured and analyzed
+microscopic images of testicular sections using a Zeiss
+microscope (Carl Zeiss, Jena, Germany).
+
+
+
+
+
+
+**Conclusion**
+In summary, we show that PTN secreted by Leydig cells
+binds to SDC2 and regulates the growth and survival
+of SSCs via GFRA1 (Fig. 7). Altered expression of PTN
+and SDC2 may compromise spermatogenesis in NOA
+
+
+-----
+
+
+
+#Background and Significance
+
+
+
+
+
+
+
+
+#Methods
+
+
+
+
+
+
+
+
+#Results
+
+
+**Results Here, we analyzed the signaling pathways involved in SSC regulation by testicular somatic cells using single-**
+cell sequencing data (GEO datasets: GSE149512 and GSE112013) and identified that Leydig cells communicate with
+SSCs through pleiotrophin (PTN) and its receptor syndecan-2 (SDC2). Immunofluorescence, STRING prediction, and
+protein immunoprecipitation assays confirmed the interaction between PTN and SDC2 in spermatogonia, but their
+co-localization was observed only in approximately 50% of the cells. The knockdown of SDC2 in human SSC lines
+impaired cell proliferation, DNA synthesis, and the expression of PLZF, a key marker for SSC self-renewal. Transcriptome
+analysis revealed that SDC2 knockdown downregulated the expression of GFRA1, a crucial factor for SSC proliferation
+and self-renewal, and inhibited the HIF-1 signaling pathway. Exogenous PTN rescued the proliferation and GFRA1
+expression in SDC2 knockdown SSC lines. In addition, we found downregulation of PTN and SDC2 as well as altered
+localization in non-obstructive azoospermia (NOA) patients, suggesting that downregulation of PTN and SDC2 may
+be associated with impaired spermatogenesis.
+
+
+#Discussion
+
+
+**Discussion**
+SSCs serve as the source of spermatogenesis and pro­
+vide continuous support for the production of sperm
+throughout a male’s lifetime [8]. SSCs in mice possess the
+capacity to revive spermatogenesis in the receiving testis
+
+[5], offering a fresh approach to addressing male infertil­
+ity, particularly NOA. Nevertheless, the lack of under­
+standing regarding the regulatory mechanisms of human
+SSCs poses a hindrance to the implementation of stem
+cell therapy for male infertility. Intrinsic molecules and
+the testis microenvironment drive the fate decision of
+SSCs [23]. The testicular microenvironment is crucial for
+the preservation and specialization of SSCs. In general,
+the self-renewal and differentiation of SSCs are regulated
+by Sertoli cells, Leydig cells, and peritubular myoid cells
+through the secretion of growth factors and the provi­
+sion of structural support, as commonly believed [38].
+
+
+
+
+#References
+
+
+**References**
+1. Qiao J, Wang Y, Li X, Jiang F, Zhang Y, Ma J, et al. A Lancet Commission on 70
+years of women’s reproductive, maternal, newborn, child, and adolescent
+health in China. Lancet. 2021;397(10293):2497–536.
+
+2. Agarwal A, Baskaran S, Parekh N, Cho CL, Henkel R, Vij S, et al. Male infertility.
+Lancet. 2021;397(10271):319–33.
+
+3. Tharakan T, Luo R, Jayasena CN, Minhas S. Non-obstructive azoospermia: cur­
+rent and future perspectives. Fac Rev. 2021;10:7.
+
+4. Saitou M, Hayashi K. Mammalian in vitro gametogenesis. Sci (New York NY).
+2021;374(6563):eaaz6830.
+
+5. Brinster RL, Zimmermann JW. Spermatogenesis following male germ-cell
+transplantation. Proc Natl Acad Sci U S A. 1994;91(24):11298–302.
+
+6. Di Persio S, Saracino R, Fera S, Muciaccia B, Esposito V, Boitani C, et al. Sper­
+matogonial kinetics in humans. Development. 2017;144(19):3430–9.
+
+7. Yoshida S. Stem cells in mammalian spermatogenesis. Dev Growth Differ.
+2010;52(3):311–7.
+
+8. Makela JA, Koskenniemi JJ, Virtanen HE, Toppari J. Testis Development.
+Endocr Rev. 2019;40(4):857–905.
+
+9. de Rooij DG. The nature and dynamics of spermatogonial stem cells. Devel­
+opment. 2017;144(17):3022–30.
+
+10. Hobbs RM, Seandel M, Falciatori I, Rafii S, Pandolfi PP. Plzf regulates germline
+
+progenitor self-renewal by opposing mTORC1. Cell. 2010;142(3):468–79.
+
+11. Helsel AR, Yang QE, Oatley MJ, Lord T, Sablitzky F, Oatley JM. ID4 levels
+
+dictate the stem cell state in mouse spermatogonia. Development.
+2017;144(4):624–34.
+
+12. Aiko S, Atsushi S, Hitomi S, Yumiko S. The RNA-binding protein NANOS2
+
+is required to maintain murine spermatogonial stem cells. Science.
+2009;325(5946):1394–8.
+
+13. Lovelace DL, Gao Z, Mutoji K, Song YC, Ruan J, Hermann BP. The regulatory
+
+repertoire of PLZF and SALL4 in undifferentiated spermatogonia. Develop­
+ment. 2016;143(11):1893–906.
+
+14. Endo T, Mikedis MM, Nicholls PK, Page DC, de Rooij DG. Retinoic acid and
+
+germ cell development in the Ovary and Testis. Biomolecules. 2019;9(12).
+
+15. Meng X, Lindahl M, Hyvonen ME, Parvinen M, de Rooij DG, Hess MW, et al.
+
+Regulation of cell fate decision of undifferentiated spermatogonia by GDNF.
+Science. 2000;287(5457):1489–93.
+
+16. Masaki K, Sakai M, Kuroki S, Jo JI, Hoshina K, Fujimori Y, et al. FGF2 has distinct
+
+molecular functions from GDNF in the mouse germline niche. Stem Cell Rep.
+2018;10(6):1782–92.
+
+17. Chen J-X, Xu L-L, Wang X-C, Qin H-Y, Wang J-L. Involvement of c-Src/STAT3
+
+signal in EGF-induced proliferation of rat spermatogonial stem cells. Mol Cell
+Biochem. 2011;358(1–2):67–73.
+
+18. Huszar JM, Payne CJ. MicroRNA 146 (Mir146) modulates spermatogonial dif­
+
+ferentiation by retinoic acid in mice. Biol Reprod. 2013;88(1):15.
+
+19. Tokue M, Ikami K, Mizuno S, Takagi C, Miyagi A, Takada R, et al. SHISA6 confers
+
+resistance to differentiation-promoting Wnt/beta-Catenin signaling in mouse
+spermatogenic stem cells. Stem Cell Rep. 2017;8(3):561–75.
+
+20. Navid S, Saadatian Z, Talebi A, Toolee H, Seyedi S. The effect of biological
+
+mechanisms of melatonin on the proliferation of spermatogonial stem cells:
+a systematic review. Anatomy & cell biology; 2024.
+
+21. Navid S, Abbasi M, Hoshino Y. The effects of melatonin on colonization of
+
+neonate spermatogonial mouse stem cells in a three-dimensional soft agar
+culture system. Stem Cell Res Ther. 2017;8(1):233.
+
+22. Potter SJ, DeFalco T. Role of the testis interstitial compartment in spermato­
+
+gonial stem cell function. Reproduction. 2017;153(4):R151–62.
+
+23. Makela JA, Hobbs RM. Molecular regulation of spermatogonial stem cell
+
+renewal and differentiation. Reproduction. 2019;158(5):R169–87.
+
+24. Guo J, Grow EJ, Yi C, Mlcochova H, Maher GJ, Lindskog C, et al. Chromatin and
+
+single-cell RNA-Seq profiling reveal Dynamic Signaling and metabolic transi­
+tions during human spermatogonial stem Cell Development. Cell Stem Cell.
+2017;21(4):533–46. e6.
+
+
+patients. Our findings shed light on the role of the tes­
+ticular microenvironment in SSC fate specification and
+suggest a potential therapeutic avenue for male infertility.
