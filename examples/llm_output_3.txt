@@ -1,0 +1,94 @@
+#Title 
+
+The effect of diabetes mellitus on differentiation of mesenchymal stem cells into insulin-producing cells
+
+
+#Authors
+
+Omar I. Badr[1], Mohamed M. Kamal[1,3,4], Shohda A. El-Maraghy[2] and Heba R. Ghaiad[2*]
+
+
+#Summary
+
+This study investigates the potential of adipose-derived mesenchymal stem cells (Ad-MSCs) in treating diabetes mellitus (DM). The introduction highlights the significance of DM as a global epidemic, its complications, and the limitations of current treatments. The study aims to compare the characteristics and differentiation potential of Ad-MSCs isolated from normal and diabetic rats. The results show that Ad-MSCs from diabetic rats exhibit reduced ability to generate insulin-producing cells (IPCs) in vitro and alleviate hyperglycemia in vivo compared to their normal counterparts. This suggests that DM may hinder the autologous use of MSCs in treating diabetes, emphasizing the need for alternative sources suitable for allogeneic transplantation.
+
+
+#Background and Significance
+
+Diabetes mellitus (DM) is a global epidemic affecting various organ systems and causing premature death. The study focuses on type 1 diabetes mellitus (T1DM), which is characterized by chronic hyperglycemia, insulin resistance, and destruction of insulin-producing β cells. Current treatments for T1DM, such as insulin injections or pancreatic transplantation, have limitations.
+
+The significance of this study lies in the potential of mesenchymal stem cells (MSCs) to treat DM. MSCs can differentiate into insulin-producing cells (IPCs), which could provide a new approach to treating both type 1 and type 2 diabetes mellitus. The study aims to investigate the characteristics of adipose-derived MSCs (Ad-MSCs) isolated from normal and diabetic rats, as well as their ability to differentiate into IPCs in vitro and control hyperglycemia in diabetic rats in vivo.
+
+The background literature highlights the importance of understanding the effects of DM on Ad-MSCs, which can be altered by the metabolic phenotype of DM. The study's significance lies in its potential contribution to the development of novel therapeutic approaches for DM, particularly in the context of autologous stem cell therapy.
+
+
+Here is the summarized methods section:
+
+#Methods
+
+• The study used Sprague–Dawley male rats with streptozotocin (STZ)-induced diabetes as the animal model.
+
+• Normal-Ad-MSCs (N-Ad-MSCs) and diabetic-Ad-MSCs (DM-Ad-MSCs) were isolated and cultured in vitro.
+
+• The in vitro differentiation of N-Ad-MSCs and DM-Ad-MSCs into insulin-producing cells (IPCs) was compared:
+
+  • Morphological comparison
+  • Gene expression analysis for β-cell markers:
+    • Neurogenin-3 (Ngn-3)
+    • Homeobox protein (Nkx6.1)
+    • Musculoaponeurotic fibrosarcoma oncogene homolog A (MafA)
+    • Insulin-1 (Ins-1)
+
+• Glucose-stimulated insulin secretion test (GSIS) was performed to evaluate the functional activity of IPCs.
+
+• The therapeutic potential of N-Ad-MSCs and DM-Ad-MSCs transplantation was compared in vivo:
+
+  • Transplantation of N-Ad-MSCs and DM-Ad-MSCs into STZ-induced diabetic animals
+  • Evaluation of the therapeutic effects
+
+
+#Results
+
+The study revealed significant differences between Ad-MSCs (adipose-derived mesenchymal stem cells) and other cell types in their ability to:
+
+• **Differentiate into insulin-producing cells (IPCs)**: Morphological analysis showed a notable difference, while expression of β-cell markers and functional assessment via glucose-stimulated insulin secretion (GSIS) test confirmed the superiority of Ad-MSCs.
+• **Control hyperglycemia in diabetic rats**: In vivo studies demonstrated that both Ad-MSCs:
+	+ Reduced fasting blood glucose (FBGs)
+	+ Regulated body weight (BW)
+	+ Improved histopathological examination of pancreas and liver
+	+ Enhanced immunoexpression of insulin in pancreata
+
+These findings suggest that Ad-MSCs have a unique potential to differentiate into IPCs and effectively control hyperglycemia in diabetic rats, making them a promising therapeutic option for diabetes treatment.
+
+
+#Discussion
+
+The discussion section highlights the devastating effect of diabetes mellitus (DM) on adipose-derived mesenchymal stem cells (Ad-MSCs). The study shows that Ad-MSCs isolated from normal rats (N-Ad-MSCs) exhibit better potentiality to generate insulin-producing cells (IPCs) in vitro and alleviate hyperglycemia in vivo compared to those isolated from diabetic rats (DM-Ad-MSCs).
+
+The authors emphasize the importance of considering the autologous transplantation of Ad-MSCs in diabetes treatment, as DM can have deleterious effects on MSC properties. They also highlight the limitations of using MSCs for cell therapy, including the need for further investigations into their differentiation into mature IPCs.
+
+Key implications include:
+
+1. The potential use of autologous Ad-MSCs as an alternative strategy for treating juvenile diabetes.
+2. The importance of considering the immunomodulatory effects of MSCs on type 1 and type 2 DM in clinical settings.
+3. The need for further research into the mechanisms of action of MSCs, including their differentiation into mature IPCs.
+
+The discussion section also highlights the limitations of the study, including the inability of MSCs to restore normal blood glucose levels or insulin expression in the islets of transplanted animals.
+
+
+#References
+
+1. Adipose tissue: a source of stem cells with potential for regenerative therapies for wound healing.
+2. Human adipose tissue is a source of multipotent stem cells.
+3. Therapeutic potential of Wharton ’ s Jelly mesen- chymal stem cells for diabetes: achievements and challenges.
+4. Adipose-derived mesenchymal stem cells therapy as a new treatment option for diabetes mellitus.
+5. Adipose-derived mesenchymal stem cells isolated from patients with type 2 diabetes show reduced “stemness” through an altered secretome profile, impaired anti-oxidative protection, and mitochondrial dynamics deterioration.
+6. Equine metabolic syndrome affects viability, senescence, and stress factors of equine adipose-derived mesenchymal stromal stem cells: new insight into EqASCs isolated from ems horses in the context of their aging.
+7. Dysfunction of mesenchymal stem cells isolated from metabolic syndrome and type 2 diabetic patients as result of oxidative stress and autophagy may limit their potential therapeutic use.
+8. Treatment of type i diabetes using autologous adipose derived mesenchymal stem cells translated to insulin secreting islet like cell aggregates.
+9. Therapeutic application of autologous ADMSCS (adipose derived mesenchymal stem cells) and islet like cell aggregates (ICAS) derived from them in type 1 and 2 diabetes mellitus—a proof of concept study.
+10. Stem cell-based clinical trials for diabetes mellitus.
+11. In vitro differentiation of single donor derived human dental mesenchymal stem cells into pancreatic β cell-like cells.
+12. Generation of glucose-responsive, insulin-producing cells from human umbilical cord blood-derived mesenchymal stem cells.
+13. Mesenchymal stem cells ameliorate hyperglycemia in type I diabetic developing male rats.
+14. Obestatin can potentially differentiate Wharton’s jelly mesenchymal stem cells into insulin-producing cells.

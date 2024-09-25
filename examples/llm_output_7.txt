@@ -1,0 +1,82 @@
+#Title 
+
+Persistent Pseudopod Splitting is an Effective Chemotaxis Strategy in Shallow Gradients
+
+
+# Authors
+
+1. Albert Alonso, Niels Bohr Institute, University of Copenhagen, Denmark
+2. Julius B. Kirkegaard, Department of Computer Science, University of Copenhagen, Denmark
+3. Robert G. Endres, Department of Life Sciences and Centre for Integrative Systems Biology and Bioinformatics, Imperial College, London, United Kingdom
+
+
+#Summary
+
+This study models directional decision-making in chemotactic amoeboid cells as a stimulus-dependent actin recruitment contest, where pseudopods compete for a finite actin pool to push the cell in their direction. The research aims to understand the fundamental principles governing cellular decision-making and its implications for efficient chemotaxis in complex chemical landscapes. By employing reinforcement learning optimization, the study shows that different pseudopod-based chemotaxis strategies emerge naturally depending on the environment and its dynamics. The findings demonstrate mechanical intelligence for high chemotaxis performance with minimal cellular regulation, and highlight the importance of embodied computation in understanding cell behavior.
+
+Please note that I did not include any information that was not explicitly stated in the provided text.
+
+
+#Background and Significance
+
+The study of cell migration, particularly chemotaxis, is crucial in understanding how cells navigate their environment and respond to chemical cues. While traditional approaches focus on microscopic receptor-ligand interactions at the cell surface, this study aims to provide a comprehensive theoretical understanding of pseudopod splitting and its role in accurate chemotaxis.
+
+The research problem lies in the lack of insights into the fundamental principles governing cellular decision-making and their implications for efficient chemotaxis in complex chemical landscapes. Current models often assume an "all-knowing" cell, capable of optimally processing signaling information for directional migration. However, this study employs state-of-the-art deep reinforcement learning (DRL) to optimize a self-contained but unconstrained suppression policy, allowing for the development of chemotactic strategies that cells have evolved over evolutionary time scales.
+
+The significance of this study lies in its potential to provide new insights into the physical principles governing cellular decision-making and their implications for efficient chemotaxis. By understanding how pseudopod formation and splitting influence cell migration, researchers can develop more realistic models of chemotaxis, ultimately leading to improved navigation methods at the microscopic scale.
+
+Furthermore, this study highlights the importance of embodied computation in the living world, allowing us to understand the cell body as an analog machine for both information processing and motility. This approach may inspire entirely new classes of intelligent matter designs, with potential applications in fields such as robotics, artificial intelligence, and biomimicry.
+
+
+#Methods
+
+
+• **Reward function**: The reward function _R_ is defined as cos(θT) + γ (tmax - T), where tmax is the maximum possible time for the cell to make a decision, and γ is a time penalty.
+
+• **Optimization**: The weights on the network are optimized by maximizing the cumulative reward R during a trajectory, which is specified as the concatenation of 30 splitting events.
+
+• **Experimental design**: The study investigates the impact of ligand noise (assumed Poissonian) on cell decision-making processes. The profile is defined with unitless values.
+
+• **Training procedure**: The policy is trained by introducing the possibility for the gradient direction to randomly change during a chemotaxis trajectory, set by α = 0.3.
+
+• **Evaluation metrics**: The performance of the policy is evaluated using cumulative reward R and the confidence interval (CI) of trajectories as a function of signal-to-noise ratio (SNR).
+
+• **Comparison**: The study compares the performance of two policies: one that does not adapt to sudden changes in the environment (α = 0), and another that adapts to such changes (α = 0.3).
+
+
+#Results
+
+The results section presents findings on the effect of chemoattractant on actin dynamics and pseudopod suppression to enhance chemotactic efficiency.
+
+• **Chemotactic Index (CI) increases with SNR**: The CI, calculated using Eq.(10), shows that the cell is able to move up the gradient more robustly at small SNRs than when allowed to change directions freely.
+• **Optimal pseudopod suppression policy**: Suppressing certain directions can enhance chemotactic performance. A mapping function _pθ_ : R → [0, 1][n] indicates the probability of not suppressing a direction.
+• **Fewer pseudopods improve efficiency**: Experimental observations show that fewer candidates (e.g., P2 and P10) can drastically improve efficiency during decision-making.
+• **Model approaches experimental data**: The model, without explicit fitting, approaches the lower bound of the experimental data as the signal increases, ultimately saturating at ∼ 0.9 chemotactic index.
+
+These findings suggest that pseudopod suppression can be an effective strategy for navigating shallow gradients and improving chemotactic efficiency.
+
+
+#Discussion
+
+The discussion section highlights the significance of the proposed minimal model for cellular decision-making, which relies on pseudopod dynamics rather than direct spatial gradient sensing. The model is shown to agree with theoretical limits and captures key features of pseudopod dynamics observed in experiments.
+
+The authors demonstrate that their model can reproduce experimental data on chemotaxis trajectories, including the characteristic dependence of the chemotactic index on signal-to-noise ratio (SNR). They then extend the model by incorporating a learnable suppression mechanism, which allows them to explore how cells might optimize their polarization for efficient chemotaxis.
+
+The learned suppression policy converges towards a behavior where the cell preferentially suppresses pseudopods at small angles, leading to a more focused forward distribution of directions of motion. This finding aligns with experimental observations in shallow gradients, where cells exhibit a fixed angular spread of forward-facing pseudopods.
+
+Overall, the discussion emphasizes the potential of the proposed model to provide insights into the time costs of moving up the chemoattractant gradient and its ability to capture the key features of pseudopod dynamics. The findings also highlight the importance of considering the role of suppression mechanisms in optimizing cellular decision-making processes.
+
+
+#References
+
+1. Physiological adaptation in flagellar architecture improves Vibrio alginolyticus chemotaxis in complex environments
+2. Evidence that foldchange, and not absolute level, of beta-catenin dictates Wnt signaling
+3. Biased Random Walk by Stochastic Fluctuations of Chemoattractant Receptor Interactions at the Lower Limit of Detection
+4. Memory improves precision of cell sensing in fluctuating environments
+5. Gradient sensing limit of a cell when controlling the elongating direction,
+6. Caenorhabditis elegans spermatozoan locomotion: amoeboid movement with almost no actin.
+7. The evolution of animal cell motility
+8. Fluid flows shaping organism morphology
+9. Collective effects in flow-driven cell migration
+10. Fluid-Filled Soft-Bodied Amoeboid Robot Inspired by Plasmodium of True Slime Mold
+11. Amoeboid soft robot based on multi-material composite 3D printing technology

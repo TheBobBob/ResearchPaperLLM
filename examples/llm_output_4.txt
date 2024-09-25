@@ -1,0 +1,88 @@
+#Title
+
+Educational differences in years lived with disability due to mental and substance use disorders: a cohort study using nationwide Norwegian and Danish registries
+
+
+#Authors
+
+Nanna Oerslev Weye[1,2], Oleguer Plana-Ripoll[1,3], Carl Michael Baravelli[6], Emilie E. Agardh[4], Lode van der Velde[4], Jonas Minet Kinge[5,6] and Ann Kristin Skrindo Knudsen[6*]
+
+
+#Summary
+
+This study examines socioeconomic differences in disease burden from mental and substance use disorders among males and females in Denmark and Norway. The research aims to investigate educational differences in non-fatal health loss from these disorders, taking comorbidity into account. The study leverages registry-based data to link information on educational level and health outcomes. The results show a pronounced inverse educational gradient, with most disease burden falling on those with the fewest years of education. This finding has implications for public health targets aimed at improving mental health and reducing social inequalities in health.
+
+
+#Background and Significance
+
+The distribution of poor health in the population is crucial for monitoring progress towards public health goals and prioritizing research focus, expenditures, and interventions. The burden of disease concept, operationalized as disability-adjusted life-years (DALYs), has been important for comparing the impact of mortality and morbidity due to different diseases across populations.
+
+In the Nordic countries, socioeconomic differences in health are present despite their strong welfare organizations. The equalizing of social differences in health is an important public health target. Research has shown a strong inverse association between socioeconomic position (SEP) and prevalence of mental and substance use disorders, with persons with low SEP having a higher risk of developing mental disorders.
+
+The burden of mental and substance use disorders in the Nordic countries is considerable, particularly among adolescents, young adults, and the working-age population. However, there is a lack of knowledge on how this burden is distributed across groups in the population characterized by their SEP. This study aims to fill this gap by examining educational differences in disease burden from mental and substance use disorders among males and females in Denmark and Norway, taking comorbidity into account.
+
+This study's significance lies in its potential to contribute to the understanding of socioeconomic differences in health outcomes and inform public health policies aimed at reducing health inequalities. By leveraging registry-based data and adjusting for observed comorbid conditions, this study can provide valuable insights into the distribution of disease burden across groups characterized by their SEP, ultimately informing targeted interventions and resource allocation.
+
+
+Here is the summarized methods section:
+
+#Methods
+
+• Information was retrieved from records in:
+	+ Norwegian National Patient Registry (NPR)
+	+ Danish Psychiatric Central Research Register (PCRR)
+
+• These records were used as proxy measures for disorder prevalence
+
+• Demographical and educational information was taken from:
+	+ Administrative registries
+
+• The YLD (Years Lived with Disability) measure of non-fatal health loss in the population was calculated by:
+	+ Multiplying the duration of a disorder with a disability weight (DW)
+	+ Scaled between 0 and 1
+
+• Information on remission and DWs were retrieved from:
+	+ GBD study
+	+ Other sources
+
+• Disorder-specific DWs were:
+	+ Averaged by severity levels
+	+ Adjusted for comorbidity
+
+
+#Results
+
+Here are the key findings from the research paper:
+
+• The educational gradient was more pronounced for schizophrenia, intellectual disability, and substance use disorders compared to eating, anxiety, and affective disorders.
+• For schizophrenia, intellectual disability, and substance use disorders:
+	+ Higher Years of Life Lived with Disability (YLD) rates were found in groups with low education.
+	+ A larger proportion of total YLDs was attributed to these disorders in groups with low education.
+• In contrast, for eating, anxiety, and affective disorders:
+	+ YLD rates were more equal across educational levels.
+	+ These disorders constituted a smaller proportion of total YLDs among groups with low education compared to those with high education.
+
+These findings suggest that there are significant differences in the impact of various mental health disorders on individuals with different levels of education.
+
+
+#Discussion
+
+The study found an inverse educational gradient in disease burden from mental and substance use disorders, with higher proportions attributed to substance use disorders, intellectual disability, and schizophrenia among those with lower educational levels. The results demonstrated a clear educational gradient, with 2-4 fold higher overall YLD rates for mental and substance use disorders among those with low compared to high education.
+
+The study highlights the bidirectional relationship between educational level and mental disorders, where presence of a mental disorder can affect an individual's educational attainment. Severe and chronic disorders with early onset were critical contributors to disease burden among those with low educational levels.
+
+The findings suggest that education may provide access to important resources that can help prevent the development of mental and substance use disorders. However, lower education is often related to poorer health literacy, less stable family- and partnerships, more disadvantaged living conditions, and fewer opportunities in the labor market, all of which can increase the risk of long-term sick-leave, unemployment, and poorer economy.
+
+The study concludes that the higher burden of mental disorders found in groups with low educational levels is concerning, not only for individual suffering but also for the societal economic burden through productivity loss and healthcare spending. The authors emphasize the importance of considering education as one of several correlated SEP-indicators in policy efforts to reduce socioeconomic inequalities in YLDs from these disorders.
+
+Overall, the study provides new perspectives on the impact of mental disorders in the population and highlights the need for further research to examine how socio-economic position and educational attainment affect the development of mental and substance use disorders and vice versa.
+
+
+#References
+
+1. Global burden of Disease Study 2021
+2. Changes in socioeconomic differentials in old age life expectancy
+3. Sweden’s economic inequality gap is widening and worrying
+4. Folkehelsemeldinga — Nasjonal strategi for utjamning av sosiale helseforskjellar
+5. Evaluating the causal relationship between educational attainment and mental health
+6. The downward spiral of mental disorders and educational attainment

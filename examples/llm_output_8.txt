@@ -1,0 +1,88 @@
+#Title 
+
+Inhibition of GPR68 kills glioblastoma in zebrafish xenograft models
+
+
+#Authors
+
+Leif R. Neitzel[1,2], Daniela T. Fuller[3], Charles H. Williams[1,2] and Charles C. Hong[1,2*]
+
+
+#Summary
+
+Glioblastoma multiforme (GBM) is a deadly brain tumor with limited treatment options. The study aims to identify a new therapeutic target by investigating the role of GPR68, a proton sensing receptor, in GBM progression. In vitro studies have shown that inhibiting GPR68 induces ferroptosis, a form of programmed cell death. To validate these findings, the researchers established orthotopic xenograft models of GBM in zebrafish and demonstrated that a small molecule inhibitor of GPR68 (OGM) kills GBM cells in vivo. The study concludes that GPR68 is an attractive therapeutic target for inhibiting GBM growth, offering new hope for treating this aggressive disease.
+
+
+#Background and Significance
+
+Glioblastoma multiforme (GBM) is the most prevalent primary brain tumor in adult patients, with an average survival rate of 14 months and near universal recurrence. Despite standard treatment involving temozolomide (TMZ) and radiotherapy following maximal surgical resection, recurrent GBM presents with resistance to TMZ and radiotherapy. The high molecular heterogeneity and plasticity of GBM tumors render many therapeutic agents ineffective.
+
+The Warburg effect, where cancer cells favor aerobic glycolysis, results in acidification of the extracellular tumor microenvironment (TME), promoting malignant clonal selection, metastasis, pro-oncogenic transcriptional responses, and immune escape. The study highlights the importance of understanding the acidic TME in GBM.
+
+The research focuses on GPR68, a proton sensing G-protein coupled receptor that protects GBMs from ferroptosis. Inhibiting GPR68 may be an attractive therapeutic target for inhibiting GBM growth. However, previous studies have only demonstrated the ability of Ogremorphin (OGM) to induce ferroptosis in vitro, without in vivo efficacy studies.
+
+This study aims to address this gap by establishing orthotopic xenograft models using Green CMFDA stained U87MG and U138MG injected intracranially in zebrafish. The study demonstrates that OGM kills GBM in vivo and shows that the effect is due to on-target inhibition of GPR68 in the GBMs.
+
+The significance of this study lies in its potential to contribute to the development of new therapeutic targets for GBM, which remains a significant challenge in the field.
+
+
+Here is a summarized version of the methods section:
+
+#Methods
+
+• **Cell Staining**: U87 and U138 cells were grown in DMEM with high glucose, GlutaMAX, and hepes containing 10% FBS, 100 units/ml penicillin, and 100 µg/mL streptomycin. Cells were then incubated for 45 min at 37 °C and 5% CO2 with CellTracker Green CMFDA Dye. Samples were washed with DPBS and fresh media added.
+
+• **GPR68 shRNA Knockdowns**: shRNAs targeting GPR68 were obtained from VectorBuilder. Plasmids were reverse transfected using lipofectamine 3000.
+
+• **Liperfluo**: Experiments were run as previously described [17] with two changes: shRNA samples were transfected with 20 µgs plasmid per 100 mm cell culture dish, and 30,000 events were recorded instead of 10,000.
+
+• **Cell Viability Assay**: Cells were reverse transfected with 0.25 µgs plasmid per well in a 24-well plate. Cells were incubated for 3 days before being lysed in 1 × Passive Lysis Buffer and assayed with CellTiter-Glo on a GloMax-Multi Detection System.
+
+• **qRT-PCR Experiments**: Cells were reverse transfected with 0.25 µgs plasmid per well in a 24-well plate. Cells were incubated for 3 days before being lysed in TRIzol and RNA extracted. cDNA was generated using the high-capacity cDNA reverse transcription kit.
+
+• **Xenograft Experiments**: Casper zebrafish were grown at 28.5 °C in E3 media. Embryos were briefly tricained (0.15 mg/ml) and then transferred to a fresh plate for injection. Fish were injected with 50 cells in 3 nl using FemtoJet 4i.
+
+• **Statistical Analysis**: All statistics were performed in R 4.3.1, and multiple t-test comparisons were analyzed post-hoc with Bonferroni correction. Graphs were made in RStudio and edited with Inkscape.
+
+
+#Results
+
+The xenograft model using intercranial injection of labeled U87MG and U138MG cells showed good tolerance to DMSO-containing compounds, with increased intrpi suggesting a robust model.
+
+Key findings:
+
+• Inhibiting GPR68 significantly reduced tumor burden in both U87MG and U138MG xenografts in the zebrafish brain after 48 hours of treatment.
+• OGM treatment decreased the overall tumor cell area and total fluorescence intensity, indicating a reduction in tumor volume and cell number.
+• Silencing hGPR68 with shRNA replicated these findings, further supporting the conclusion that inhibiting GPR68 specifically kills glioblastoma cells in vivo without off-target toxicity.
+
+Note: The summary only includes information that is explicitly stated in the provided text.
+
+
+#Discussion
+
+The discussion section highlights the establishment of a consistent methodology for tracking glioblastoma cell lines in zebrafish xenograft models. The study found that CellTracker Green CMFDA Dye is suitable for tracking U87MG and U138MG cancer cells for up to 3 days without affecting their ability to graft into the zebrafish.
+
+The results show that U87MG cells successfully grafted in about half of injected samples, while U138MG cells had a low grafting rate. Neither cell line invaded the trunk of the animal at an appreciable level when injected intracranially. However, the successful grafting of both cell lines was heavily dependent on the media used to resuspend and inject the cells.
+
+The study also found that intercranial injections had minimal effects on sample survival. The findings suggest that the choice of media is crucial for successful xenografting in zebrafish models, which has implications for the broader research context.
+
+
+#References
+
+Here are the names of the papers:
+
+1. PLoS ONE
+2. Dev Genes Evol
+3. PLoS ONE
+4. Academic Press
+5. Zebrafish
+6. Mar Biotechnol
+7. Cell Stem Cell
+8. Autophagy
+9. Cell Mol Life Sci
+10. Biol Open
+11. Ann Transl Med
+12. Genes (Basel)
+13. Cancers (Basel)
+14. Zebrafish
+15. Neuro Oncol

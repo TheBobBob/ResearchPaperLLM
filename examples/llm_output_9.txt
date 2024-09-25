@@ -1,0 +1,87 @@
+#Title 
+
+Fast characterization of segmental duplication structure in multiple genome assemblies
+
+
+# Authors
+
+1. Hamza Išerić [1]
+2. Can Alkan [2]
+3. Faraz Hach [3,4]
+4. Ibrahim Numanagić [1*]
+
+
+#Summary
+
+The BISER algorithm is introduced to quickly detect segmental duplications (SDs) across multiple related genomes, enabling evolutionary analysis of all SDs in a given set of genomes. The significance of this research lies in its ability to analyze SDs in seven primate genomes in roughly 16 CPU hours, making it a useful tool for characterizing these functionally important genomic events. The algorithm's speed and flexibility will contribute to our understanding of SD evolution when thousands of genome assemblies become available in the next few years.
+
+
+#Background and Significance
+
+Segmental duplications (SDs) are crucial genomic events that have been shaped by millions of years of evolution. However, the existing tools for detecting SDs in single genomes are insufficient to scale to multiple genome assemblies, hindering our understanding of their evolutionary architecture.
+
+The study highlights the importance of analyzing SDs across multiple related species to uncover their evolutionary history and identify core duplicons, which drive the formation process. Current tools can detect elementary SDs only at the single genome level, lacking the ability to provide exact genomic coordinates or analyze SDs across different species.
+
+The significance of this study lies in introducing BISER (Brisk Inference of Segmental duplication Evolutionary stRucture), a novel framework that can quickly detect SDs even at low homology levels across multiple related genomes. BISER's key advances include a linear-time algorithm for detecting regions harboring SDs and a new approach for decomposing SDs into elementary SDs.
+
+The study aims to provide a deeper understanding of the complex evolutionary architecture of SDs, which is crucial for characterizing their functional importance in the genome. By analyzing all shared SDs in seven primate genomes, BISER has the potential to revolutionize our understanding of these events and their role in shaping the human genome.
+
+
+Here is the summarized methods section:
+
+#Methods
+
+• The study uses genomic sequences (G) to identify structural duplications (SDs).
+• The decomposition step involves building a k-mer index (Ik) of the reference sequence (R) and scanning all sequences using a sweeping line algorithm.
+• Putative elementary SDs are found by appending new k-mers to existing SDs or creating new ones, while removing SDs that do not meet certain criteria.
+• The study uses Tarjan's union-find algorithm for clustering overlapping SDs and merging sequences that overlap.
+• To reduce the size of Ik, the study clusters all overlapping SDs, merges sequences that overlap, and applies the same algorithm on every cluster separately in parallel.
+• After decomposing SDs into elementary SDs (E), the study selects some as core duplicons using a classical set-cover approximation algorithm.
+• The method can be efficiently scaled to multiple genomes (G[1], ..., G[γ]) by constructing k-mer indices (IG1, ..., IG[γ]) and running the search and alignment procedure on each genome in parallel.
+
+Note: I did not include any information that was not explicitly stated in the provided section.
+
+
+Here is a summary of the Results section:
+
+#Results
+
+The BISER tool was tested on a single genome and seven related genomes to identify structural duplications (SDs) and core duplicons that drive the formation of such SDs.
+
+* The tool correctly inferred the evolutionary tree for a gene family, agreeing with previously published results.
+* Running time performance: BISER took around 2 hours to complete the run on 8 cores, with most time spent aligning putative SDs from the calJac3 genome.
+* Multi-genome results:
+	+ The tool identified approximately 282,130 elementary SDs in a set of nearly 1,985,586 SDs.
+	+ Running times for single-core and 8-core modes are provided in Table 2.
+
+**Comparison with other tools:**
+
+* BISER outperformed SEDEF and SDquest in terms of running time (Table 3).
+* The tool correctly identified more SDs than WGAC (standard) and missed fewer SDs, but also found some extra SDs not detected by WGAC (Table 3).
+
+Overall, the results demonstrate the effectiveness and efficiency of BISER in identifying structural duplications and core duplicons across multiple genomes.
+
+
+#Discussion
+
+The authors conclude that their newly developed algorithm, BISER, can efficiently characterize segmental duplications (SDs) in multiple genomes, enabling the analysis of SD evolution. They highlight three key advantages of BISER: it is faster than existing tools, capable of multi-species SD analysis, and able to identify elementary SDs and core duplicons. The authors believe that BISER will be a valuable tool for understanding SD evolution when thousands of genome assemblies become available in the near future. They propose applying BISER to a larger set of mammalian genomes and conducting detailed biological analysis of the resulting SDs and core duplicons.
+
+
+# References
+
+Here are the names of the papers:
+
+1. Genome 10K Community of Scientists. Genome 10K: a proposal to obtain whole-genome sequence for 10,000 vertebrate species.
+2. Bailey JA, Yavor AM, Massa HF. 
+3. Pham SK, Pevzner PA. DRIMM-synteny: decomposing genomes into evolutionary conserved segments.
+4. Chvatal V. A greedy heuristic for the set-covering problem.
+5. Tange O. GNU parallel—the command-line power tool.
+6. Išerić H. Biser: fast characterization of segmental duplication structure in multiple genome assemblies.
+7. Jiang Z, Hubley R, Smit A, Eichler EE. Dupmasker: a tool for annotating primate segmental duplications.
+8. Genome 10K Community of Scientists. 
+9. Lewin HA, Robinson GE, Kress WJ, Baker WJ, Coddington J, Crandall KA, Durbin R, Edwards SV, Forest F, Gilbert MTP, Goldstein MM, Grigoriev IV, Hackett KJ, Haussler D, Jarvis ED, Johnson WE, Patrinos A, Richards S, Castilla-Rubio JC, van Sluys M-A, Soltis PS, Xu X, Yang H, Zhang G. Earth BioGenome project: sequencing life for the future of life.
+10. Shumate A, Salzberg SL. Liftoff: accurate mapping of gene annotations.
+11. Hu X, Friedberg I. SwiftOrtho: a fast, memory-efficient, multiple genome orthology classifier.
+12. Hölzer M, Marz M. PoSeiDon: a Nextflow pipeline for the detection of evolutionary recombination events and positive selection.
+
+Note that some references do not have specific paper names, so they are listed as "Community of Scientists" or just the authors' names.

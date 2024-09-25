@@ -1,0 +1,75 @@
+#Title 
+
+In Silico Prediction of the Dissociation Rate Constants of Small Chemical Ligands by 3D-Grid-Based VolSurf Method
+
+
+#Authors
+
+Shuheng Huang [1,2], Linxin Chen [1,2], Hu Mei [1,2], Duo Zhang [2], Tingting Shi [2], Zuyin Kuang [2], Yu Heng [2], Lei Xu [2], Xianchao Pan [2,3]
+
+
+#Summary
+
+This study demonstrates the effectiveness of the VolSurf method in predicting ligand dissociation rate constants (koff) for heat shock protein 90α, adenosine receptor, and p38 mitogen-activated protein kinase. The introduction highlights the importance of kinetic properties in drug potency, emphasizing the limitations of traditional thermodynamic approaches. The study builds upon previous research using molecular dynamics simulations, but with a focus on ligand-based prediction methods. The VolSurf method is shown to efficiently capture key molecular surface properties related to dissociation rate, resulting in robust and predictive models. The conclusion emphasizes the significance of this approach for virtual screening researches, highlighting its potential to provide fast and accurate predictions without requiring energy-minimized structures of ligand-receptor complexes.
+
+
+#Background and Significance
+
+The introduction of thermodynamic properties (IC50, EC50, and equilibrium dissociation constant) has long been considered key indicators of drug potency. However, recent evidence suggests that kinetic properties, particularly dissociation rate constant (koff) or drug-target residence time (τ), are more important for drug potency and are increasingly being used in real-world lead optimization and drug design.
+
+Despite the growing importance of kinetic properties, laboratory techniques such as capillary electrophoresis, affinity chromatography, and surface plasmon resonance methods are limited by technical difficulties, including high cost, large measurement errors, and time consumption. Computational chemistry offers an alternative approach to predict binding kinetic properties using molecular simulation techniques like molecular dynamics.
+
+Recent studies have successfully applied these methods to predict residence times and dissociation rate constants of various inhibitors. However, the practical effectiveness of these methods is limited by computational resources required, underdeveloped force fields, and relatively lower prediction accuracies. Therefore, traditional ligand-based prediction methods remain a first choice for predicting ligand binding kinetics.
+
+This study aims to investigate the applicability and reliability of the VolSurf method in predicting ligand dissociation rate constants of adenosine receptor (AR), HSP90, and p38 MAPK. The significance of this study lies in its potential to provide a practical and promising way for predicting ligand kinetic properties, which can contribute to the development of more effective drugs and accelerate drug discovery processes.
+
+
+Here is the summarized methods section:
+
+#Methods
+
+• **VolSurf Calculation**
+	+ Charged each molecule using MMFF94 method
+	+ Optimized molecules using MMFF94 force field with conjugate gradient minimizer (Sybyl 8.1)
+	+ Set parameters: maximum iteration steps = 5000, energy gradient = 0.05 kcal/mol·Å, long-distance cut-off = 8 Å
+	+ Generated 166 VolSurf descriptors using 9 probes
+	+ Used SMR for feature selection with entry and removal probabilities set to 0.05 and 0.1
+
+• **Partial Least Squares Regression (PLS) Modeling**
+	+ Target variable: negative logarithm transformed koff values
+	+ Used PLS to find a linear relationship between X (VolSurf descriptors) and Y (koff values)
+	+ Validated model using RMSE (Equation 4) and MAPE (Equation 5)
+
+Note: I did not include the equations as they are not relevant to the summary.
+
+
+#Results
+
+The study presents the results of a VolSurf model, which outperforms other models based on position-restrained MD and biased MD simulations. The key findings are:
+
+• **VolSurf model performance**: The VolSurf model shows superior prediction performances with R[2], Q[2], and R[2]val values of 0.821, 0.818, and 0.821, respectively.
+• **Comparison to other models**: The VolSurf model outperforms position-restrained MD (R[2] = 0.72, Q[2] = 0.66) and biased MD simulations (R[2]val = 0.56).
+• **PLS modeling and Y-random permutations test**: The results of 1000-repeated PLS modeling and 500-times Y-random permutations test demonstrate that the high-quality PLS model is not caused by accident.
+• **Optimal PLS model**: The optimal PLS model with two variables (V-OH2 and BV21-OH2) can accurately estimate log(koff) values spanning about 5 orders of magnitude, suggesting that molecular volume and hydrophilic interactions are key determinants of p38 MAPK inhibitor dissociation rates.
+• **Correlation between PLS scores and log(koff) values**: The first principal component scores are significantly correlated with the observed log(koff) values.
+
+
+#Discussion
+
+The discussion section summarizes the results of the study on heat shock protein 90α (HSP90) inhibitors and adenosine receptor (AR) agonists/antagonists. The key findings are:
+
+* For HSP90 inhibitors, a PLS model was developed using molecular descriptors V-OH2 and D8-DRY, which showed good prediction performance for the training and validation sets.
+* The optimal PLS model suggests that the dissociation rate of HSP90 inhibitors is closely related to their molecular volume and hydrophobic properties.
+* The study validated the robustness of the optimal PLS model through repeated PLS modeling and Y-random permutation test, demonstrating its high-quality predictive power.
+* The predictive power of the optimal PLS model was further tested using an independent test dataset of 49 non-redundant HSP inhibitors, showing acceptable performance despite a decrease in R[2]val value.
+
+The study highlights the importance of considering molecular volume and hydrophobic properties when designing HSP90 inhibitors. This finding has implications for the development of more effective cancer therapies targeting HSP90.
+
+In the context of broader research on ARs, this study contributes to our understanding of the dissociation rate constants of A1AR agonists and antagonists. The findings have potential applications in the treatment of asthma and other diseases regulated by ARs.
+
+
+#References
+
+1. Computational modeling approaches to quantitative structure-binding kinetics in drug discovery.
+
+2. Drug-target interaction kinetics: Underutilized in drug optimization?
