@@ -1,0 +1,96 @@
+#Title 
+
+Deep learning identified glioblastoma subtypes based on internal genomic expression ranks
+
+
+# Authors
+Xing-gang Mao[1†], Xiao-yan Xue[2†], Ling Wang[3], Wei Lin[1*] and Xiang Zhang[1*]
+
+
+#Summary
+
+This study develops an algorithm to classify glioblastoma (GBM) subtypes using deep learning techniques. The approach transforms genomic expression data into standardized normal distribution (SND) data, which retains relative ranking information while losing detailed quantitative relationships. A convolutional deep neural network (CDNN) is then trained on the SND-data to classify GBM samples with high performance. The study demonstrates that this unified procedure can accurately classify GBM subtypes and has potential applications in distinguishing other molecular or clinical features of GBM or other tumors.
+
+
+#Background and Significance
+
+Glioblastoma (GBM) is one of the most aggressive brain tumors with a median survival rate of only 15 months despite advanced therapeutic techniques. The lack of effective treatment has prompted investigation into the pathogenesis of GBM, particularly through high-throughput molecular studies.
+
+Previous research has shown that GBM can be classified into four subtypes: Proneural (PN), Neural (NL), Classical (CL), and Mesenchymal (ME) based on clustering algorithms. However, due to differences in gene-chip platforms and research groups, it is still challenging to determine the subtype of a single sample.
+
+Deep learning has shown great potential in dealing with complicated biological data and has been used to recognize genetic, histopathological, and radiographic features of GBM or low-grade glioma. The significance of this study lies in its development of an algorithm that transforms genomic expression into unified standardized normal distribution (SND) data, which can be used for subtype classification.
+
+The importance of this study is twofold. Firstly, it provides a feasible tool for classifying single GBM samples, which can improve the accuracy and efficiency of diagnosis and treatment. Secondly, the unified procedure gives potential approaches to distinguish other molecular or clinical features of GBM or other kind of tumors by deep learning techniques.
+
+Overall, this study has significant implications for the diagnosis and treatment of GBM, and its findings have the potential to contribute to the development of more effective therapeutic strategies for this devastating disease.
+
+
+#Methods
+
+• Trained deep neural networks (DNN) and convolutional DNN (CDNN) models on:
+	+ Original data
+	+ SND data, based on internal expression ranks
+• Expanded SND data by combining various The Cancer Genome Atlas (TCGA) datasets to improve:
+	+ Robustness
+	+ Generalization capacity of CDNN models
+	
+
+#Results
+
+The CDNN models trained on SND data showed significantly higher accuracy compared to DNN and CDNN models trained on primary expression data.
+
+Key findings:
+
+• CDNN models classified the NE subtype with the lowest accuracy in GBM datasets, expanded datasets, and IDH wild-type GBMs.
+• Consistent with recent studies, this suggests that the NE subtype should be excluded.
+• CDNN models recognized independent GBM datasets even with a small set of genomic expressions.
+
+These results highlight the improved performance of CDNN models trained on SND data and their ability to accurately classify GBM subtypes, including the recognition of independent datasets.
+
+
+#Discussion
+
+The discussion section highlights the utility of deep learning in classifying GBM subtypes, particularly with the use of SND-data. The study demonstrates that deep neural networks (DNNs) can classify GBM samples with high accuracy, even when trained on a single dataset or a few samples. The authors also explore the importance of normalizing expression profiles and unifying data to improve classification accuracy.
+
+The study reveals that the DNN performed better on SND-data than original-data, indicating that SND-data retains key information for classification. Additionally, transforming 1-dimensional expression data into 2-dimensional data like images improved classification accuracy, suggesting that this process is beneficial for deep learning-based classification of GBM subtypes.
+
+The authors also compare their results with those from Support Vector Machine (SVM) models, finding that CDNNs have advantages in larger datasets with better generalization capacity. However, SVM models exhibited better performance when trained on smaller datasets.
+
+Key implications and connections made to the broader research context include:
+
+* The study highlights the potential of deep learning in translational cancer genomics, particularly for identifying GBM subtypes based on genomic profiles.
+* The internal-rank based SND transformation provides a concise algorithm to unify genomic data, making it more feasible to identify GBM subtypes.
+* The study emphasizes the importance of sample size and accumulated data in improving the performance of deep learning models.
+
+Overall, the discussion section summarizes the authors' findings and highlights the potential applications and limitations of deep learning in classifying GBM subtypes.
+
+
+#References
+
+Here are the names of the papers:
+
+1. Exciting new advances in neuro-oncology: the avenue to a cure for malignant glioma.
+2. The somatic genomic landscape of glioblastoma.
+3. Comprehensive genomic characterization defines human glioblastoma genes and core pathways.
+4. Integrated genomic analysis identifies clinically relevant subtypes of glioblastoma characterized by abnormalities in PDGFRA, IDH1, EGFR, and NF1.
+5. Glioblastoma: pathology, molecular mechanisms and markers.
+6. Reappraising the 2016 WHO classification for diffuse glioma.
+7. Molecular subclasses of high-grade glioma predict prognosis, delineate a pattern of disease progression, and resemble stages in neurogenesis.
+8. Tumor evolution of glioma-intrinsic gene expression subtypes associates with immunological changes in the microenvironment.
+9. Histopathology-validated machine learning radiographic biomarker for noninvasive discrimination between true progression and pseudoprogression in glioblastoma.
+10. Predicting cancer outcomes from histology and genomics using convolutional networks.
+11. Next generation sequencing and machine learning technologies are painting the epigenetic portrait of glioblastoma.
+12. Unsupervised deep learning reveals prognostically relevant subtypes of glioblastoma.
+13. Residual convolutional neural network for the determination of IDH status in low- and high-grade gliomas from MR imaging.
+14. IDH1 mutation prediction using MR-based radiomics in glioblastoma: comparison between manual and fully automated deep learning-based approach of tumor segmentation.
+15. Prediction of lower-grade glioma molecular subtypes using deep learning.
+16. Machine learning reveals multimodal MRI patterns predictive of isocitrate dehydrogenase and 1p/19q status in diffuse low- and high-grade gliomas.
+17. Machine learning-based differentiation between multiple sclerosis and glioma WHO II degrees -IV degrees using O-(2-[18F] fluoroethyl)-L-tyrosine positron emission tomography.
+18. Analyzing real-time PCR data by the comparative C(T) method.
+19. Analysis of relative gene expression data using real-time quantitative PCR and the 2(−Delta Delta C(T)) method.
+20. Neural network models and deep learning.
+21. ImageNet Classification with Deep Convolutional Neural Networks.
+22. Molecular profiling reveals biologically discrete subsets and pathways of progression in diffuse glioma.
+23. Patients with proneural glioblastoma may derive overall survival benefit from the addition of bevacizumab to first-line radiotherapy and Temozolomide: retrospective analysis of the AVAglio trial.
+24. MRI localized biopsies reveal subtype-specific differences in molecular and cellular composition at the margins of glioblastoma.
+25. LIBSVM : a library for support vector machines.
